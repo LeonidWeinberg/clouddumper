@@ -2,13 +2,22 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Launch manager",
+            "name": "run gen",
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "${workspaceFolder}",
+            "program": "${workspaceFolder}/genapi",
             // "envFile": "${workspaceFolder}/manager/.env",
-            // "args": [""]
+            "args": ["./docs/aws", "../dumper", "../../aws-sdk-go-v2"]
+        },
+        {
+            "name": "run awsdump",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/dumper",
+            // "envFile": "${workspaceFolder}/manager/.env",
+            // "args": ["./docs/aws", "../dumper", "../../aws-sdk-go-v2"]
         }
     ]
 }

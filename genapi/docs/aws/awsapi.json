@@ -1,0 +1,6718 @@
+[
+  {
+    "Describers": [
+      {
+        "Method": "AutoScalingConfiguration",
+        "Service": "apprunner"
+      },
+      {
+        "Method": "CustomDomains",
+        "Service": "apprunner"
+      },
+      {
+        "Method": "ObservabilityConfiguration",
+        "Service": "apprunner"
+      },
+      {
+        "Method": "Service",
+        "Service": "apprunner"
+      },
+      {
+        "Method": "VpcConnector",
+        "Service": "apprunner"
+      }
+    ],
+    "Package": "apprunner"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AlarmHistory",
+        "Service": "cloudwatch"
+      },
+      {
+        "Method": "Alarms",
+        "Service": "cloudwatch"
+      },
+      {
+        "Method": "AlarmsForMetric",
+        "Service": "cloudwatch"
+      },
+      {
+        "Method": "AnomalyDetectors",
+        "Service": "cloudwatch"
+      },
+      {
+        "Method": "InsightRules",
+        "Service": "cloudwatch"
+      }
+    ],
+    "Package": "cloudwatch"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "OrganizationConfiguration",
+        "Service": "detective"
+      }
+    ],
+    "Package": "detective"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Certificate",
+        "Service": "directoryservice"
+      },
+      {
+        "Method": "ClientAuthenticationSettings",
+        "Service": "directoryservice"
+      },
+      {
+        "Method": "ConditionalForwarders",
+        "Service": "directoryservice"
+      },
+      {
+        "Method": "Directories",
+        "Service": "directoryservice"
+      },
+      {
+        "Method": "DomainControllers",
+        "Service": "directoryservice"
+      },
+      {
+        "Method": "EventTopics",
+        "Service": "directoryservice"
+      },
+      {
+        "Method": "LDAPSSettings",
+        "Service": "directoryservice"
+      },
+      {
+        "Method": "Regions",
+        "Service": "directoryservice"
+      },
+      {
+        "Method": "Settings",
+        "Service": "directoryservice"
+      },
+      {
+        "Method": "SharedDirectories",
+        "Service": "directoryservice"
+      },
+      {
+        "Method": "Snapshots",
+        "Service": "directoryservice"
+      },
+      {
+        "Method": "Trusts",
+        "Service": "directoryservice"
+      },
+      {
+        "Method": "UpdateDirectory",
+        "Service": "directoryservice"
+      }
+    ],
+    "Package": "directoryservice"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ActionTargets",
+        "Service": "securityhub"
+      },
+      {
+        "Method": "Hub",
+        "Service": "securityhub"
+      },
+      {
+        "Method": "OrganizationConfiguration",
+        "Service": "securityhub"
+      },
+      {
+        "Method": "Products",
+        "Service": "securityhub"
+      },
+      {
+        "Method": "Standards",
+        "Service": "securityhub"
+      },
+      {
+        "Method": "StandardsControls",
+        "Service": "securityhub"
+      }
+    ],
+    "Package": "securityhub"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AvailabilityMonitorTest",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "BandwidthRateLimit",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "BandwidthRateLimitSchedule",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "Cache",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "CachediSCSIVolumes",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "ChapCredentials",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "FileSystemAssociations",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "GatewayInformation",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "MaintenanceStartTime",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "NFSFileShares",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "SMBFileShares",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "SMBSettings",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "SnapshotSchedule",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "StorediSCSIVolumes",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "TapeArchives",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "TapeRecoveryPoints",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "Tapes",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "UploadBuffer",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "VTLDevices",
+        "Service": "storagegateway"
+      },
+      {
+        "Method": "WorkingStorage",
+        "Service": "storagegateway"
+      }
+    ],
+    "Package": "storagegateway"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Group",
+        "Service": "identitystore"
+      },
+      {
+        "Method": "GroupMembership",
+        "Service": "identitystore"
+      },
+      {
+        "Method": "User",
+        "Service": "identitystore"
+      }
+    ],
+    "Package": "identitystore"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ImageGenerationConfiguration",
+        "Service": "kinesisvideo"
+      },
+      {
+        "Method": "NotificationConfiguration",
+        "Service": "kinesisvideo"
+      },
+      {
+        "Method": "SignalingChannel",
+        "Service": "kinesisvideo"
+      },
+      {
+        "Method": "Stream",
+        "Service": "kinesisvideo"
+      }
+    ],
+    "Package": "kinesisvideo"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Bot",
+        "Service": "lexmodelsv2"
+      },
+      {
+        "Method": "BotAlias",
+        "Service": "lexmodelsv2"
+      },
+      {
+        "Method": "BotLocale",
+        "Service": "lexmodelsv2"
+      },
+      {
+        "Method": "BotRecommendation",
+        "Service": "lexmodelsv2"
+      },
+      {
+        "Method": "BotVersion",
+        "Service": "lexmodelsv2"
+      },
+      {
+        "Method": "CustomVocabularyMetadata",
+        "Service": "lexmodelsv2"
+      },
+      {
+        "Method": "Export",
+        "Service": "lexmodelsv2"
+      },
+      {
+        "Method": "Import",
+        "Service": "lexmodelsv2"
+      },
+      {
+        "Method": "Intent",
+        "Service": "lexmodelsv2"
+      },
+      {
+        "Method": "ResourcePolicy",
+        "Service": "lexmodelsv2"
+      },
+      {
+        "Method": "Slot",
+        "Service": "lexmodelsv2"
+      },
+      {
+        "Method": "SlotType",
+        "Service": "lexmodelsv2"
+      }
+    ],
+    "Package": "lexmodelsv2"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Device",
+        "Service": "snowdevicemanagement"
+      },
+      {
+        "Method": "DeviceEc2Instances",
+        "Service": "snowdevicemanagement"
+      },
+      {
+        "Method": "Execution",
+        "Service": "snowdevicemanagement"
+      },
+      {
+        "Method": "Task",
+        "Service": "snowdevicemanagement"
+      }
+    ],
+    "Package": "snowdevicemanagement"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Engagement",
+        "Service": "ssmcontacts"
+      },
+      {
+        "Method": "Page",
+        "Service": "ssmcontacts"
+      }
+    ],
+    "Package": "ssmcontacts"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ScalableTargets",
+        "Service": "applicationautoscaling"
+      },
+      {
+        "Method": "ScalingActivities",
+        "Service": "applicationautoscaling"
+      },
+      {
+        "Method": "ScalingPolicies",
+        "Service": "applicationautoscaling"
+      },
+      {
+        "Method": "ScheduledActions",
+        "Service": "applicationautoscaling"
+      }
+    ],
+    "Package": "applicationautoscaling"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Alarm",
+        "Service": "ioteventsdata"
+      },
+      {
+        "Method": "Detector",
+        "Service": "ioteventsdata"
+      }
+    ],
+    "Package": "ioteventsdata"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ApplicationInstance",
+        "Service": "panorama"
+      },
+      {
+        "Method": "ApplicationInstanceDetails",
+        "Service": "panorama"
+      },
+      {
+        "Method": "Device",
+        "Service": "panorama"
+      },
+      {
+        "Method": "DeviceJob",
+        "Service": "panorama"
+      },
+      {
+        "Method": "Node",
+        "Service": "panorama"
+      },
+      {
+        "Method": "NodeFromTemplateJob",
+        "Service": "panorama"
+      },
+      {
+        "Method": "Package",
+        "Service": "panorama"
+      },
+      {
+        "Method": "PackageImportJob",
+        "Service": "panorama"
+      },
+      {
+        "Method": "PackageVersion",
+        "Service": "panorama"
+      }
+    ],
+    "Package": "panorama"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Attachment",
+        "Service": "support"
+      },
+      {
+        "Method": "Cases",
+        "Service": "support"
+      },
+      {
+        "Method": "Communications",
+        "Service": "support"
+      },
+      {
+        "Method": "Services",
+        "Service": "support"
+      },
+      {
+        "Method": "SeverityLevels",
+        "Service": "support"
+      },
+      {
+        "Method": "TrustedAdvisorCheckRefreshStatuses",
+        "Service": "support"
+      },
+      {
+        "Method": "TrustedAdvisorCheckResult",
+        "Service": "support"
+      },
+      {
+        "Method": "TrustedAdvisorCheckSummaries",
+        "Service": "support"
+      },
+      {
+        "Method": "TrustedAdvisorChecks",
+        "Service": "support"
+      }
+    ],
+    "Package": "support"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "EmailMonitoringConfiguration",
+        "Service": "workmail"
+      },
+      {
+        "Method": "Group",
+        "Service": "workmail"
+      },
+      {
+        "Method": "InboundDmarcSettings",
+        "Service": "workmail"
+      },
+      {
+        "Method": "MailboxExportJob",
+        "Service": "workmail"
+      },
+      {
+        "Method": "Organization",
+        "Service": "workmail"
+      },
+      {
+        "Method": "Resource",
+        "Service": "workmail"
+      },
+      {
+        "Method": "User",
+        "Service": "workmail"
+      }
+    ],
+    "Package": "workmail"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Cluster",
+        "Service": "kafka"
+      },
+      {
+        "Method": "ClusterOperation",
+        "Service": "kafka"
+      },
+      {
+        "Method": "ClusterV2",
+        "Service": "kafka"
+      },
+      {
+        "Method": "Configuration",
+        "Service": "kafka"
+      },
+      {
+        "Method": "ConfigurationRevision",
+        "Service": "kafka"
+      }
+    ],
+    "Package": "kafka"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Asset",
+        "Service": "mediapackagevod"
+      },
+      {
+        "Method": "PackagingConfiguration",
+        "Service": "mediapackagevod"
+      },
+      {
+        "Method": "PackagingGroup",
+        "Service": "mediapackagevod"
+      }
+    ],
+    "Package": "mediapackagevod"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "DBClusterEndpoints",
+        "Service": "neptune"
+      },
+      {
+        "Method": "DBClusterParameterGroups",
+        "Service": "neptune"
+      },
+      {
+        "Method": "DBClusterParameters",
+        "Service": "neptune"
+      },
+      {
+        "Method": "DBClusterSnapshotAttributes",
+        "Service": "neptune"
+      },
+      {
+        "Method": "DBClusterSnapshots",
+        "Service": "neptune"
+      },
+      {
+        "Method": "DBClusters",
+        "Service": "neptune"
+      },
+      {
+        "Method": "DBEngineVersions",
+        "Service": "neptune"
+      },
+      {
+        "Method": "DBInstances",
+        "Service": "neptune"
+      },
+      {
+        "Method": "DBParameterGroups",
+        "Service": "neptune"
+      },
+      {
+        "Method": "DBParameters",
+        "Service": "neptune"
+      },
+      {
+        "Method": "DBSubnetGroups",
+        "Service": "neptune"
+      },
+      {
+        "Method": "EngineDefaultClusterParameters",
+        "Service": "neptune"
+      },
+      {
+        "Method": "EngineDefaultParameters",
+        "Service": "neptune"
+      },
+      {
+        "Method": "EventCategories",
+        "Service": "neptune"
+      },
+      {
+        "Method": "EventSubscriptions",
+        "Service": "neptune"
+      },
+      {
+        "Method": "Events",
+        "Service": "neptune"
+      },
+      {
+        "Method": "GlobalClusters",
+        "Service": "neptune"
+      },
+      {
+        "Method": "OrderableDBInstanceOptions",
+        "Service": "neptune"
+      },
+      {
+        "Method": "PendingMaintenanceActions",
+        "Service": "neptune"
+      },
+      {
+        "Method": "ValidDBInstanceModifications",
+        "Service": "neptune"
+      }
+    ],
+    "Package": "neptune"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "SigningJob",
+        "Service": "signer"
+      }
+    ],
+    "Package": "signer"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ActivityType",
+        "Service": "swf"
+      },
+      {
+        "Method": "Domain",
+        "Service": "swf"
+      },
+      {
+        "Method": "WorkflowExecution",
+        "Service": "swf"
+      },
+      {
+        "Method": "WorkflowType",
+        "Service": "swf"
+      }
+    ],
+    "Package": "swf"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "TextTranslationJob",
+        "Service": "translate"
+      }
+    ],
+    "Package": "translate"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Backups",
+        "Service": "cloudhsmv2"
+      },
+      {
+        "Method": "Clusters",
+        "Service": "cloudhsmv2"
+      }
+    ],
+    "Package": "cloudhsmv2"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Query",
+        "Service": "cloudtrail"
+      },
+      {
+        "Method": "Trails",
+        "Service": "cloudtrail"
+      }
+    ],
+    "Package": "cloudtrail"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AccountHealth",
+        "Service": "devopsguru"
+      },
+      {
+        "Method": "AccountOverview",
+        "Service": "devopsguru"
+      },
+      {
+        "Method": "Anomaly",
+        "Service": "devopsguru"
+      },
+      {
+        "Method": "EventSourcesConfig",
+        "Service": "devopsguru"
+      },
+      {
+        "Method": "Feedback",
+        "Service": "devopsguru"
+      },
+      {
+        "Method": "Insight",
+        "Service": "devopsguru"
+      },
+      {
+        "Method": "OrganizationHealth",
+        "Service": "devopsguru"
+      },
+      {
+        "Method": "OrganizationOverview",
+        "Service": "devopsguru"
+      },
+      {
+        "Method": "OrganizationResourceCollectionHealth",
+        "Service": "devopsguru"
+      },
+      {
+        "Method": "ResourceCollectionHealth",
+        "Service": "devopsguru"
+      },
+      {
+        "Method": "ServiceIntegration",
+        "Service": "devopsguru"
+      }
+    ],
+    "Package": "devopsguru"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "JobRun",
+        "Service": "emrcontainers"
+      },
+      {
+        "Method": "ManagedEndpoint",
+        "Service": "emrcontainers"
+      },
+      {
+        "Method": "VirtualCluster",
+        "Service": "emrcontainers"
+      }
+    ],
+    "Package": "emrcontainers"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Resource",
+        "Service": "lakeformation"
+      },
+      {
+        "Method": "Transaction",
+        "Service": "lakeformation"
+      }
+    ],
+    "Package": "lakeformation"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AccountAttributes",
+        "Service": "pinpointsmsvoicev2"
+      },
+      {
+        "Method": "AccountLimits",
+        "Service": "pinpointsmsvoicev2"
+      },
+      {
+        "Method": "ConfigurationSets",
+        "Service": "pinpointsmsvoicev2"
+      },
+      {
+        "Method": "Keywords",
+        "Service": "pinpointsmsvoicev2"
+      },
+      {
+        "Method": "OptOutLists",
+        "Service": "pinpointsmsvoicev2"
+      },
+      {
+        "Method": "OptedOutNumbers",
+        "Service": "pinpointsmsvoicev2"
+      },
+      {
+        "Method": "PhoneNumbers",
+        "Service": "pinpointsmsvoicev2"
+      },
+      {
+        "Method": "Pools",
+        "Service": "pinpointsmsvoicev2"
+      },
+      {
+        "Method": "SenderIds",
+        "Service": "pinpointsmsvoicev2"
+      },
+      {
+        "Method": "SpendLimits",
+        "Service": "pinpointsmsvoicev2"
+      }
+    ],
+    "Package": "pinpointsmsvoicev2"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Backup",
+        "Service": "dynamodb"
+      },
+      {
+        "Method": "ContinuousBackups",
+        "Service": "dynamodb"
+      },
+      {
+        "Method": "ContributorInsights",
+        "Service": "dynamodb"
+      },
+      {
+        "Method": "Endpoints",
+        "Service": "dynamodb"
+      },
+      {
+        "Method": "Export",
+        "Service": "dynamodb"
+      },
+      {
+        "Method": "GlobalTable",
+        "Service": "dynamodb"
+      },
+      {
+        "Method": "GlobalTableSettings",
+        "Service": "dynamodb"
+      },
+      {
+        "Method": "Import",
+        "Service": "dynamodb"
+      },
+      {
+        "Method": "KinesisStreamingDestination",
+        "Service": "dynamodb"
+      },
+      {
+        "Method": "Limits",
+        "Service": "dynamodb"
+      },
+      {
+        "Method": "Table",
+        "Service": "dynamodb"
+      },
+      {
+        "Method": "TableReplicaAutoScaling",
+        "Service": "dynamodb"
+      },
+      {
+        "Method": "TimeToLive",
+        "Service": "dynamodb"
+      }
+    ],
+    "Package": "dynamodb"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AcceleratorOfferings",
+        "Service": "elasticinference"
+      },
+      {
+        "Method": "AcceleratorTypes",
+        "Service": "elasticinference"
+      },
+      {
+        "Method": "Accelerators",
+        "Service": "elasticinference"
+      }
+    ],
+    "Package": "elasticinference"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Backups",
+        "Service": "fsx"
+      },
+      {
+        "Method": "DataRepositoryAssociations",
+        "Service": "fsx"
+      },
+      {
+        "Method": "DataRepositoryTasks",
+        "Service": "fsx"
+      },
+      {
+        "Method": "FileCaches",
+        "Service": "fsx"
+      },
+      {
+        "Method": "FileSystemAliases",
+        "Service": "fsx"
+      },
+      {
+        "Method": "FileSystems",
+        "Service": "fsx"
+      },
+      {
+        "Method": "Snapshots",
+        "Service": "fsx"
+      },
+      {
+        "Method": "StorageVirtualMachines",
+        "Service": "fsx"
+      },
+      {
+        "Method": "Volumes",
+        "Service": "fsx"
+      }
+    ],
+    "Package": "fsx"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Device",
+        "Service": "iot1clickdevicesservice"
+      }
+    ],
+    "Package": "iot1clickdevicesservice"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Voices",
+        "Service": "polly"
+      }
+    ],
+    "Package": "polly"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AccountCustomization",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "AccountSettings",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "AccountSubscription",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "Analysis",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "AnalysisPermissions",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "Dashboard",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "DashboardPermissions",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "DataSet",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "DataSetPermissions",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "DataSource",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "DataSourcePermissions",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "Folder",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "FolderPermissions",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "FolderResolvedPermissions",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "Group",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "GroupMembership",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "IAMPolicyAssignment",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "Ingestion",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "IpRestriction",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "Namespace",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "Template",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "TemplateAlias",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "TemplatePermissions",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "Theme",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "ThemeAlias",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "ThemePermissions",
+        "Service": "quicksight"
+      },
+      {
+        "Method": "User",
+        "Service": "quicksight"
+      }
+    ],
+    "Package": "quicksight"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "BatchPredictions",
+        "Service": "machinelearning"
+      },
+      {
+        "Method": "DataSources",
+        "Service": "machinelearning"
+      },
+      {
+        "Method": "Evaluations",
+        "Service": "machinelearning"
+      },
+      {
+        "Method": "MLModels",
+        "Service": "machinelearning"
+      },
+      {
+        "Method": "Tags",
+        "Service": "machinelearning"
+      }
+    ],
+    "Package": "machinelearning"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ScalingPlanResources",
+        "Service": "autoscalingplans"
+      },
+      {
+        "Method": "ScalingPlans",
+        "Service": "autoscalingplans"
+      }
+    ],
+    "Package": "autoscalingplans"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "CodeReview",
+        "Service": "codegurureviewer"
+      },
+      {
+        "Method": "RecommendationFeedback",
+        "Service": "codegurureviewer"
+      },
+      {
+        "Method": "RepositoryAssociation",
+        "Service": "codegurureviewer"
+      }
+    ],
+    "Package": "codegurureviewer"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Clusters",
+        "Service": "dax"
+      },
+      {
+        "Method": "DefaultParameters",
+        "Service": "dax"
+      },
+      {
+        "Method": "Events",
+        "Service": "dax"
+      },
+      {
+        "Method": "ParameterGroups",
+        "Service": "dax"
+      },
+      {
+        "Method": "Parameters",
+        "Service": "dax"
+      },
+      {
+        "Method": "SubnetGroups",
+        "Service": "dax"
+      }
+    ],
+    "Package": "dax"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ImageTags",
+        "Service": "ecrpublic"
+      },
+      {
+        "Method": "Images",
+        "Service": "ecrpublic"
+      },
+      {
+        "Method": "Registries",
+        "Service": "ecrpublic"
+      },
+      {
+        "Method": "Repositories",
+        "Service": "ecrpublic"
+      }
+    ],
+    "Package": "ecrpublic"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "CacheClusters",
+        "Service": "elasticache"
+      },
+      {
+        "Method": "CacheEngineVersions",
+        "Service": "elasticache"
+      },
+      {
+        "Method": "CacheParameterGroups",
+        "Service": "elasticache"
+      },
+      {
+        "Method": "CacheParameters",
+        "Service": "elasticache"
+      },
+      {
+        "Method": "CacheSecurityGroups",
+        "Service": "elasticache"
+      },
+      {
+        "Method": "CacheSubnetGroups",
+        "Service": "elasticache"
+      },
+      {
+        "Method": "EngineDefaultParameters",
+        "Service": "elasticache"
+      },
+      {
+        "Method": "Events",
+        "Service": "elasticache"
+      },
+      {
+        "Method": "GlobalReplicationGroups",
+        "Service": "elasticache"
+      },
+      {
+        "Method": "ReplicationGroups",
+        "Service": "elasticache"
+      },
+      {
+        "Method": "ReservedCacheNodes",
+        "Service": "elasticache"
+      },
+      {
+        "Method": "ReservedCacheNodesOfferings",
+        "Service": "elasticache"
+      },
+      {
+        "Method": "ServiceUpdates",
+        "Service": "elasticache"
+      },
+      {
+        "Method": "Snapshots",
+        "Service": "elasticache"
+      },
+      {
+        "Method": "UpdateActions",
+        "Service": "elasticache"
+      },
+      {
+        "Method": "UserGroups",
+        "Service": "elasticache"
+      },
+      {
+        "Method": "Users",
+        "Service": "elasticache"
+      }
+    ],
+    "Package": "elasticache"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AccountLimits",
+        "Service": "elasticloadbalancing"
+      },
+      {
+        "Method": "InstanceHealth",
+        "Service": "elasticloadbalancing"
+      },
+      {
+        "Method": "LoadBalancerAttributes",
+        "Service": "elasticloadbalancing"
+      },
+      {
+        "Method": "LoadBalancerPolicies",
+        "Service": "elasticloadbalancing"
+      },
+      {
+        "Method": "LoadBalancerPolicyTypes",
+        "Service": "elasticloadbalancing"
+      },
+      {
+        "Method": "LoadBalancers",
+        "Service": "elasticloadbalancing"
+      },
+      {
+        "Method": "Tags",
+        "Service": "elasticloadbalancing"
+      }
+    ],
+    "Package": "elasticloadbalancing"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AccountAttributes",
+        "Service": "rds"
+      },
+      {
+        "Method": "Certificates",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBClusterBacktracks",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBClusterEndpoints",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBClusterParameterGroups",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBClusterParameters",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBClusterSnapshotAttributes",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBClusterSnapshots",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBClusters",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBEngineVersions",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBInstanceAutomatedBackups",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBInstances",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBLogFiles",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBParameterGroups",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBParameters",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBProxies",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBProxyEndpoints",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBProxyTargetGroups",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBProxyTargets",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBSecurityGroups",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBSnapshotAttributes",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBSnapshots",
+        "Service": "rds"
+      },
+      {
+        "Method": "DBSubnetGroups",
+        "Service": "rds"
+      },
+      {
+        "Method": "EngineDefaultClusterParameters",
+        "Service": "rds"
+      },
+      {
+        "Method": "EngineDefaultParameters",
+        "Service": "rds"
+      },
+      {
+        "Method": "EventCategories",
+        "Service": "rds"
+      },
+      {
+        "Method": "EventSubscriptions",
+        "Service": "rds"
+      },
+      {
+        "Method": "Events",
+        "Service": "rds"
+      },
+      {
+        "Method": "ExportTasks",
+        "Service": "rds"
+      },
+      {
+        "Method": "GlobalClusters",
+        "Service": "rds"
+      },
+      {
+        "Method": "OptionGroupOptions",
+        "Service": "rds"
+      },
+      {
+        "Method": "OptionGroups",
+        "Service": "rds"
+      },
+      {
+        "Method": "OrderableDBInstanceOptions",
+        "Service": "rds"
+      },
+      {
+        "Method": "PendingMaintenanceActions",
+        "Service": "rds"
+      },
+      {
+        "Method": "ReservedDBInstances",
+        "Service": "rds"
+      },
+      {
+        "Method": "ReservedDBInstancesOfferings",
+        "Service": "rds"
+      },
+      {
+        "Method": "SourceRegions",
+        "Service": "rds"
+      },
+      {
+        "Method": "ValidDBInstanceModifications",
+        "Service": "rds"
+      }
+    ],
+    "Package": "rds"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AppInstance",
+        "Service": "chime"
+      },
+      {
+        "Method": "AppInstanceAdmin",
+        "Service": "chime"
+      },
+      {
+        "Method": "AppInstanceUser",
+        "Service": "chime"
+      },
+      {
+        "Method": "Channel",
+        "Service": "chime"
+      },
+      {
+        "Method": "ChannelBan",
+        "Service": "chime"
+      },
+      {
+        "Method": "ChannelMembership",
+        "Service": "chime"
+      },
+      {
+        "Method": "ChannelMembershipForAppInstanceUser",
+        "Service": "chime"
+      },
+      {
+        "Method": "ChannelModeratedByAppInstanceUser",
+        "Service": "chime"
+      },
+      {
+        "Method": "ChannelModerator",
+        "Service": "chime"
+      }
+    ],
+    "Package": "chime"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ImageReplicationStatus",
+        "Service": "ecr"
+      },
+      {
+        "Method": "ImageScanFindings",
+        "Service": "ecr"
+      },
+      {
+        "Method": "Images",
+        "Service": "ecr"
+      },
+      {
+        "Method": "PullThroughCacheRules",
+        "Service": "ecr"
+      },
+      {
+        "Method": "Registry",
+        "Service": "ecr"
+      },
+      {
+        "Method": "Repositories",
+        "Service": "ecr"
+      }
+    ],
+    "Package": "ecr"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AccountAttributes",
+        "Service": "elasticbeanstalk"
+      },
+      {
+        "Method": "ApplicationVersions",
+        "Service": "elasticbeanstalk"
+      },
+      {
+        "Method": "Applications",
+        "Service": "elasticbeanstalk"
+      },
+      {
+        "Method": "ConfigurationOptions",
+        "Service": "elasticbeanstalk"
+      },
+      {
+        "Method": "ConfigurationSettings",
+        "Service": "elasticbeanstalk"
+      },
+      {
+        "Method": "EnvironmentHealth",
+        "Service": "elasticbeanstalk"
+      },
+      {
+        "Method": "EnvironmentManagedActionHistory",
+        "Service": "elasticbeanstalk"
+      },
+      {
+        "Method": "EnvironmentManagedActions",
+        "Service": "elasticbeanstalk"
+      },
+      {
+        "Method": "EnvironmentResources",
+        "Service": "elasticbeanstalk"
+      },
+      {
+        "Method": "Environments",
+        "Service": "elasticbeanstalk"
+      },
+      {
+        "Method": "Events",
+        "Service": "elasticbeanstalk"
+      },
+      {
+        "Method": "InstancesHealth",
+        "Service": "elasticbeanstalk"
+      },
+      {
+        "Method": "PlatformVersion",
+        "Service": "elasticbeanstalk"
+      }
+    ],
+    "Package": "elasticbeanstalk"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AssessmentRuns",
+        "Service": "inspector"
+      },
+      {
+        "Method": "AssessmentTargets",
+        "Service": "inspector"
+      },
+      {
+        "Method": "AssessmentTemplates",
+        "Service": "inspector"
+      },
+      {
+        "Method": "CrossAccountAccessRole",
+        "Service": "inspector"
+      },
+      {
+        "Method": "Exclusions",
+        "Service": "inspector"
+      },
+      {
+        "Method": "Findings",
+        "Service": "inspector"
+      },
+      {
+        "Method": "ResourceGroups",
+        "Service": "inspector"
+      },
+      {
+        "Method": "RulesPackages",
+        "Service": "inspector"
+      }
+    ],
+    "Package": "inspector"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Application",
+        "Service": "kinesisanalytics"
+      }
+    ],
+    "Package": "kinesisanalytics"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Firewall",
+        "Service": "networkfirewall"
+      },
+      {
+        "Method": "FirewallPolicy",
+        "Service": "networkfirewall"
+      },
+      {
+        "Method": "LoggingConfiguration",
+        "Service": "networkfirewall"
+      },
+      {
+        "Method": "ResourcePolicy",
+        "Service": "networkfirewall"
+      },
+      {
+        "Method": "RuleGroup",
+        "Service": "networkfirewall"
+      },
+      {
+        "Method": "RuleGroupMetadata",
+        "Service": "networkfirewall"
+      }
+    ],
+    "Package": "networkfirewall"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "CapacityProviders",
+        "Service": "ecs"
+      },
+      {
+        "Method": "Clusters",
+        "Service": "ecs"
+      },
+      {
+        "Method": "ContainerInstances",
+        "Service": "ecs"
+      },
+      {
+        "Method": "Services",
+        "Service": "ecs"
+      },
+      {
+        "Method": "TaskDefinition",
+        "Service": "ecs"
+      },
+      {
+        "Method": "TaskSets",
+        "Service": "ecs"
+      },
+      {
+        "Method": "Tasks",
+        "Service": "ecs"
+      }
+    ],
+    "Package": "ecs"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Namespace",
+        "Service": "iotthingsgraph"
+      }
+    ],
+    "Package": "iotthingsgraph"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Channel",
+        "Service": "mediapackage"
+      },
+      {
+        "Method": "HarvestJob",
+        "Service": "mediapackage"
+      },
+      {
+        "Method": "OriginEndpoint",
+        "Service": "mediapackage"
+      }
+    ],
+    "Package": "mediapackage"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Object",
+        "Service": "mediastoredata"
+      }
+    ],
+    "Package": "mediastoredata"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "SavingsPlanRates",
+        "Service": "savingsplans"
+      },
+      {
+        "Method": "SavingsPlans",
+        "Service": "savingsplans"
+      },
+      {
+        "Method": "SavingsPlansOfferingRates",
+        "Service": "savingsplans"
+      },
+      {
+        "Method": "SavingsPlansOfferings",
+        "Service": "savingsplans"
+      }
+    ],
+    "Package": "savingsplans"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ManagedRuleGroup",
+        "Service": "wafv2"
+      }
+    ],
+    "Package": "wafv2"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AccountLimits",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "AdjustmentTypes",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "AutoScalingGroups",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "AutoScalingInstances",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "AutoScalingNotificationTypes",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "InstanceRefreshes",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "LaunchConfigurations",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "LifecycleHookTypes",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "LifecycleHooks",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "LoadBalancerTargetGroups",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "LoadBalancers",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "MetricCollectionTypes",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "NotificationConfigurations",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "Policies",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "ScalingActivities",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "ScalingProcessTypes",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "ScheduledActions",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "Tags",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "TerminationPolicyTypes",
+        "Service": "autoscaling"
+      },
+      {
+        "Method": "WarmPool",
+        "Service": "autoscaling"
+      }
+    ],
+    "Package": "autoscaling"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ApiDestination",
+        "Service": "cloudwatchevents"
+      },
+      {
+        "Method": "Archive",
+        "Service": "cloudwatchevents"
+      },
+      {
+        "Method": "Connection",
+        "Service": "cloudwatchevents"
+      },
+      {
+        "Method": "EventBus",
+        "Service": "cloudwatchevents"
+      },
+      {
+        "Method": "EventSource",
+        "Service": "cloudwatchevents"
+      },
+      {
+        "Method": "PartnerEventSource",
+        "Service": "cloudwatchevents"
+      },
+      {
+        "Method": "Replay",
+        "Service": "cloudwatchevents"
+      },
+      {
+        "Method": "Rule",
+        "Service": "cloudwatchevents"
+      }
+    ],
+    "Package": "cloudwatchevents"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "IdentityProvider",
+        "Service": "cognitoidentityprovider"
+      },
+      {
+        "Method": "ResourceServer",
+        "Service": "cognitoidentityprovider"
+      },
+      {
+        "Method": "RiskConfiguration",
+        "Service": "cognitoidentityprovider"
+      },
+      {
+        "Method": "UserImportJob",
+        "Service": "cognitoidentityprovider"
+      },
+      {
+        "Method": "UserPool",
+        "Service": "cognitoidentityprovider"
+      },
+      {
+        "Method": "UserPoolClient",
+        "Service": "cognitoidentityprovider"
+      },
+      {
+        "Method": "UserPoolDomain",
+        "Service": "cognitoidentityprovider"
+      }
+    ],
+    "Package": "cognitoidentityprovider"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "DataIngestionJob",
+        "Service": "lookoutequipment"
+      },
+      {
+        "Method": "Dataset",
+        "Service": "lookoutequipment"
+      },
+      {
+        "Method": "InferenceScheduler",
+        "Service": "lookoutequipment"
+      },
+      {
+        "Method": "Label",
+        "Service": "lookoutequipment"
+      },
+      {
+        "Method": "LabelGroup",
+        "Service": "lookoutequipment"
+      },
+      {
+        "Method": "Model",
+        "Service": "lookoutequipment"
+      }
+    ],
+    "Package": "lookoutequipment"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Job",
+        "Service": "s3control"
+      },
+      {
+        "Method": "MultiRegionAccessPointOperation",
+        "Service": "s3control"
+      }
+    ],
+    "Package": "s3control"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ApiDestination",
+        "Service": "eventbridge"
+      },
+      {
+        "Method": "Archive",
+        "Service": "eventbridge"
+      },
+      {
+        "Method": "Connection",
+        "Service": "eventbridge"
+      },
+      {
+        "Method": "Endpoint",
+        "Service": "eventbridge"
+      },
+      {
+        "Method": "EventBus",
+        "Service": "eventbridge"
+      },
+      {
+        "Method": "EventSource",
+        "Service": "eventbridge"
+      },
+      {
+        "Method": "PartnerEventSource",
+        "Service": "eventbridge"
+      },
+      {
+        "Method": "Replay",
+        "Service": "eventbridge"
+      },
+      {
+        "Method": "Rule",
+        "Service": "eventbridge"
+      }
+    ],
+    "Package": "eventbridge"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Services",
+        "Service": "pricing"
+      }
+    ],
+    "Package": "pricing"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Endpoints",
+        "Service": "timestreamquery"
+      },
+      {
+        "Method": "ScheduledQuery",
+        "Service": "timestreamquery"
+      }
+    ],
+    "Package": "timestreamquery"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AgentStatus",
+        "Service": "connect"
+      },
+      {
+        "Method": "Contact",
+        "Service": "connect"
+      },
+      {
+        "Method": "ContactFlow",
+        "Service": "connect"
+      },
+      {
+        "Method": "ContactFlowModule",
+        "Service": "connect"
+      },
+      {
+        "Method": "HoursOfOperation",
+        "Service": "connect"
+      },
+      {
+        "Method": "Instance",
+        "Service": "connect"
+      },
+      {
+        "Method": "InstanceAttribute",
+        "Service": "connect"
+      },
+      {
+        "Method": "InstanceStorageConfig",
+        "Service": "connect"
+      },
+      {
+        "Method": "PhoneNumber",
+        "Service": "connect"
+      },
+      {
+        "Method": "Queue",
+        "Service": "connect"
+      },
+      {
+        "Method": "QuickConnect",
+        "Service": "connect"
+      },
+      {
+        "Method": "RoutingProfile",
+        "Service": "connect"
+      },
+      {
+        "Method": "SecurityProfile",
+        "Service": "connect"
+      },
+      {
+        "Method": "TrafficDistributionGroup",
+        "Service": "connect"
+      },
+      {
+        "Method": "User",
+        "Service": "connect"
+      },
+      {
+        "Method": "UserHierarchyGroup",
+        "Service": "connect"
+      },
+      {
+        "Method": "UserHierarchyStructure",
+        "Service": "connect"
+      },
+      {
+        "Method": "Vocabulary",
+        "Service": "connect"
+      }
+    ],
+    "Package": "connect"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "JobLogItems",
+        "Service": "drs"
+      },
+      {
+        "Method": "Jobs",
+        "Service": "drs"
+      },
+      {
+        "Method": "RecoveryInstances",
+        "Service": "drs"
+      },
+      {
+        "Method": "RecoverySnapshots",
+        "Service": "drs"
+      },
+      {
+        "Method": "ReplicationConfigurationTemplates",
+        "Service": "drs"
+      },
+      {
+        "Method": "SourceServers",
+        "Service": "drs"
+      }
+    ],
+    "Package": "drs"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "TableDataImportJob",
+        "Service": "honeycode"
+      }
+    ],
+    "Package": "honeycode"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Application",
+        "Service": "iotfleethub"
+      }
+    ],
+    "Package": "iotfleethub"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Application",
+        "Service": "kinesisanalyticsv2"
+      },
+      {
+        "Method": "ApplicationSnapshot",
+        "Service": "kinesisanalyticsv2"
+      },
+      {
+        "Method": "ApplicationVersion",
+        "Service": "kinesisanalyticsv2"
+      }
+    ],
+    "Package": "kinesisanalyticsv2"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Statement",
+        "Service": "redshiftdata"
+      },
+      {
+        "Method": "Table",
+        "Service": "redshiftdata"
+      }
+    ],
+    "Package": "redshiftdata"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AgentVersions",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "Apps",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "Commands",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "Deployments",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "EcsClusters",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "ElasticIps",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "ElasticLoadBalancers",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "Instances",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "Layers",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "LoadBasedAutoScaling",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "MyUserProfile",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "OperatingSystems",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "Permissions",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "RaidArrays",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "RdsDbInstances",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "ServiceErrors",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "StackProvisioningParameters",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "StackSummary",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "Stacks",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "TimeBasedAutoScaling",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "UserProfiles",
+        "Service": "opsworks"
+      },
+      {
+        "Method": "Volumes",
+        "Service": "opsworks"
+      }
+    ],
+    "Package": "opsworks"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Address",
+        "Service": "snowball"
+      },
+      {
+        "Method": "Addresses",
+        "Service": "snowball"
+      },
+      {
+        "Method": "Cluster",
+        "Service": "snowball"
+      },
+      {
+        "Method": "Job",
+        "Service": "snowball"
+      },
+      {
+        "Method": "ReturnShippingLabel",
+        "Service": "snowball"
+      }
+    ],
+    "Package": "snowball"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "EnvironmentMemberships",
+        "Service": "cloud9"
+      },
+      {
+        "Method": "EnvironmentStatus",
+        "Service": "cloud9"
+      },
+      {
+        "Method": "Environments",
+        "Service": "cloud9"
+      }
+    ],
+    "Package": "cloud9"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "DocumentClassificationJob",
+        "Service": "comprehend"
+      },
+      {
+        "Method": "DocumentClassifier",
+        "Service": "comprehend"
+      },
+      {
+        "Method": "DominantLanguageDetectionJob",
+        "Service": "comprehend"
+      },
+      {
+        "Method": "Endpoint",
+        "Service": "comprehend"
+      },
+      {
+        "Method": "EntitiesDetectionJob",
+        "Service": "comprehend"
+      },
+      {
+        "Method": "EntityRecognizer",
+        "Service": "comprehend"
+      },
+      {
+        "Method": "EventsDetectionJob",
+        "Service": "comprehend"
+      },
+      {
+        "Method": "KeyPhrasesDetectionJob",
+        "Service": "comprehend"
+      },
+      {
+        "Method": "PiiEntitiesDetectionJob",
+        "Service": "comprehend"
+      },
+      {
+        "Method": "ResourcePolicy",
+        "Service": "comprehend"
+      },
+      {
+        "Method": "SentimentDetectionJob",
+        "Service": "comprehend"
+      },
+      {
+        "Method": "TargetedSentimentDetectionJob",
+        "Service": "comprehend"
+      },
+      {
+        "Method": "TopicsDetectionJob",
+        "Service": "comprehend"
+      }
+    ],
+    "Package": "comprehend"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AggregateComplianceByConfigRules",
+        "Service": "configservice"
+      },
+      {
+        "Method": "AggregateComplianceByConformancePacks",
+        "Service": "configservice"
+      },
+      {
+        "Method": "AggregationAuthorizations",
+        "Service": "configservice"
+      },
+      {
+        "Method": "ComplianceByConfigRule",
+        "Service": "configservice"
+      },
+      {
+        "Method": "ComplianceByResource",
+        "Service": "configservice"
+      },
+      {
+        "Method": "ConfigRuleEvaluationStatus",
+        "Service": "configservice"
+      },
+      {
+        "Method": "ConfigRules",
+        "Service": "configservice"
+      },
+      {
+        "Method": "ConfigurationAggregatorSourcesStatus",
+        "Service": "configservice"
+      },
+      {
+        "Method": "ConfigurationAggregators",
+        "Service": "configservice"
+      },
+      {
+        "Method": "ConfigurationRecorderStatus",
+        "Service": "configservice"
+      },
+      {
+        "Method": "ConfigurationRecorders",
+        "Service": "configservice"
+      },
+      {
+        "Method": "ConformancePackCompliance",
+        "Service": "configservice"
+      },
+      {
+        "Method": "ConformancePackStatus",
+        "Service": "configservice"
+      },
+      {
+        "Method": "ConformancePacks",
+        "Service": "configservice"
+      },
+      {
+        "Method": "DeliveryChannelStatus",
+        "Service": "configservice"
+      },
+      {
+        "Method": "DeliveryChannels",
+        "Service": "configservice"
+      },
+      {
+        "Method": "OrganizationConfigRuleStatuses",
+        "Service": "configservice"
+      },
+      {
+        "Method": "OrganizationConfigRules",
+        "Service": "configservice"
+      },
+      {
+        "Method": "OrganizationConformancePackStatuses",
+        "Service": "configservice"
+      },
+      {
+        "Method": "OrganizationConformancePacks",
+        "Service": "configservice"
+      },
+      {
+        "Method": "PendingAggregationRequests",
+        "Service": "configservice"
+      },
+      {
+        "Method": "RemediationConfigurations",
+        "Service": "configservice"
+      },
+      {
+        "Method": "RemediationExceptions",
+        "Service": "configservice"
+      },
+      {
+        "Method": "RemediationExecutionStatus",
+        "Service": "configservice"
+      },
+      {
+        "Method": "RetentionConfigurations",
+        "Service": "configservice"
+      }
+    ],
+    "Package": "configservice"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Cluster",
+        "Service": "emr"
+      },
+      {
+        "Method": "JobFlows",
+        "Service": "emr"
+      },
+      {
+        "Method": "NotebookExecution",
+        "Service": "emr"
+      },
+      {
+        "Method": "ReleaseLabel",
+        "Service": "emr"
+      },
+      {
+        "Method": "SecurityConfiguration",
+        "Service": "emr"
+      },
+      {
+        "Method": "Step",
+        "Service": "emr"
+      },
+      {
+        "Method": "Studio",
+        "Service": "emr"
+      }
+    ],
+    "Package": "emr"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Job",
+        "Service": "glacier"
+      },
+      {
+        "Method": "Vault",
+        "Service": "glacier"
+      }
+    ],
+    "Package": "glacier"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Tunnel",
+        "Service": "iotsecuretunneling"
+      }
+    ],
+    "Package": "iotsecuretunneling"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ReportCreation",
+        "Service": "resourcegroupstaggingapi"
+      }
+    ],
+    "Package": "resourcegroupstaggingapi"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Domain",
+        "Service": "voiceid"
+      },
+      {
+        "Method": "Fraudster",
+        "Service": "voiceid"
+      },
+      {
+        "Method": "FraudsterRegistrationJob",
+        "Service": "voiceid"
+      },
+      {
+        "Method": "Speaker",
+        "Service": "voiceid"
+      },
+      {
+        "Method": "SpeakerEnrollmentJob",
+        "Service": "voiceid"
+      }
+    ],
+    "Package": "voiceid"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Function",
+        "Service": "cloudfront"
+      }
+    ],
+    "Package": "cloudfront"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "MergeConflicts",
+        "Service": "codecommit"
+      },
+      {
+        "Method": "PullRequestEvents",
+        "Service": "codecommit"
+      }
+    ],
+    "Package": "codecommit"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "NotificationRule",
+        "Service": "codestarnotifications"
+      }
+    ],
+    "Package": "codestarnotifications"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Component",
+        "Service": "greengrassv2"
+      }
+    ],
+    "Package": "greengrassv2"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Bundle",
+        "Service": "mobile"
+      },
+      {
+        "Method": "Project",
+        "Service": "mobile"
+      }
+    ],
+    "Package": "mobile"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Account",
+        "Service": "organizations"
+      },
+      {
+        "Method": "CreateAccountStatus",
+        "Service": "organizations"
+      },
+      {
+        "Method": "EffectivePolicy",
+        "Service": "organizations"
+      },
+      {
+        "Method": "Handshake",
+        "Service": "organizations"
+      },
+      {
+        "Method": "Organization",
+        "Service": "organizations"
+      },
+      {
+        "Method": "OrganizationalUnit",
+        "Service": "organizations"
+      },
+      {
+        "Method": "Policy",
+        "Service": "organizations"
+      }
+    ],
+    "Package": "organizations"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ComputeEnvironments",
+        "Service": "batch"
+      },
+      {
+        "Method": "JobDefinitions",
+        "Service": "batch"
+      },
+      {
+        "Method": "JobQueues",
+        "Service": "batch"
+      },
+      {
+        "Method": "Jobs",
+        "Service": "batch"
+      },
+      {
+        "Method": "SchedulingPolicies",
+        "Service": "batch"
+      }
+    ],
+    "Package": "batch"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Channel",
+        "Service": "chimesdkmessaging"
+      },
+      {
+        "Method": "ChannelBan",
+        "Service": "chimesdkmessaging"
+      },
+      {
+        "Method": "ChannelFlow",
+        "Service": "chimesdkmessaging"
+      },
+      {
+        "Method": "ChannelMembership",
+        "Service": "chimesdkmessaging"
+      },
+      {
+        "Method": "ChannelMembershipForAppInstanceUser",
+        "Service": "chimesdkmessaging"
+      },
+      {
+        "Method": "ChannelModeratedByAppInstanceUser",
+        "Service": "chimesdkmessaging"
+      },
+      {
+        "Method": "ChannelModerator",
+        "Service": "chimesdkmessaging"
+      }
+    ],
+    "Package": "chimesdkmessaging"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "JournalKinesisStream",
+        "Service": "qldb"
+      },
+      {
+        "Method": "JournalS3Export",
+        "Service": "qldb"
+      },
+      {
+        "Method": "Ledger",
+        "Service": "qldb"
+      }
+    ],
+    "Package": "qldb"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Activities",
+        "Service": "workdocs"
+      },
+      {
+        "Method": "Comments",
+        "Service": "workdocs"
+      },
+      {
+        "Method": "DocumentVersions",
+        "Service": "workdocs"
+      },
+      {
+        "Method": "FolderContents",
+        "Service": "workdocs"
+      },
+      {
+        "Method": "Groups",
+        "Service": "workdocs"
+      },
+      {
+        "Method": "NotificationSubscriptions",
+        "Service": "workdocs"
+      },
+      {
+        "Method": "ResourcePermissions",
+        "Service": "workdocs"
+      },
+      {
+        "Method": "RootFolders",
+        "Service": "workdocs"
+      },
+      {
+        "Method": "Users",
+        "Service": "workdocs"
+      }
+    ],
+    "Package": "workdocs"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "CostCategoryDefinition",
+        "Service": "costexplorer"
+      }
+    ],
+    "Package": "costexplorer"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Endpoints",
+        "Service": "mediaconvert"
+      }
+    ],
+    "Package": "mediaconvert"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "DeploymentJob",
+        "Service": "robomaker"
+      },
+      {
+        "Method": "Fleet",
+        "Service": "robomaker"
+      },
+      {
+        "Method": "Robot",
+        "Service": "robomaker"
+      },
+      {
+        "Method": "RobotApplication",
+        "Service": "robomaker"
+      },
+      {
+        "Method": "SimulationApplication",
+        "Service": "robomaker"
+      },
+      {
+        "Method": "SimulationJob",
+        "Service": "robomaker"
+      },
+      {
+        "Method": "SimulationJobBatch",
+        "Service": "robomaker"
+      },
+      {
+        "Method": "World",
+        "Service": "robomaker"
+      },
+      {
+        "Method": "WorldExportJob",
+        "Service": "robomaker"
+      },
+      {
+        "Method": "WorldGenerationJob",
+        "Service": "robomaker"
+      },
+      {
+        "Method": "WorldTemplate",
+        "Service": "robomaker"
+      }
+    ],
+    "Package": "robomaker"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "CodeBinding",
+        "Service": "schemas"
+      },
+      {
+        "Method": "Discoverer",
+        "Service": "schemas"
+      },
+      {
+        "Method": "Registry",
+        "Service": "schemas"
+      },
+      {
+        "Method": "Schema",
+        "Service": "schemas"
+      }
+    ],
+    "Package": "schemas"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ReportDefinitions",
+        "Service": "costandusagereportservice"
+      }
+    ],
+    "Package": "costandusagereportservice"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Objects",
+        "Service": "datapipeline"
+      },
+      {
+        "Method": "Pipelines",
+        "Service": "datapipeline"
+      }
+    ],
+    "Package": "datapipeline"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AccessPolicy",
+        "Service": "iotsitewise"
+      },
+      {
+        "Method": "Asset",
+        "Service": "iotsitewise"
+      },
+      {
+        "Method": "AssetModel",
+        "Service": "iotsitewise"
+      },
+      {
+        "Method": "AssetProperty",
+        "Service": "iotsitewise"
+      },
+      {
+        "Method": "BulkImportJob",
+        "Service": "iotsitewise"
+      },
+      {
+        "Method": "Dashboard",
+        "Service": "iotsitewise"
+      },
+      {
+        "Method": "DefaultEncryptionConfiguration",
+        "Service": "iotsitewise"
+      },
+      {
+        "Method": "Gateway",
+        "Service": "iotsitewise"
+      },
+      {
+        "Method": "GatewayCapabilityConfiguration",
+        "Service": "iotsitewise"
+      },
+      {
+        "Method": "LoggingOptions",
+        "Service": "iotsitewise"
+      },
+      {
+        "Method": "Portal",
+        "Service": "iotsitewise"
+      },
+      {
+        "Method": "Project",
+        "Service": "iotsitewise"
+      },
+      {
+        "Method": "StorageConfiguration",
+        "Service": "iotsitewise"
+      },
+      {
+        "Method": "TimeSeries",
+        "Service": "iotsitewise"
+      }
+    ],
+    "Package": "iotsitewise"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "GlobalNetworks",
+        "Service": "networkmanager"
+      }
+    ],
+    "Package": "networkmanager"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "HumanLoop",
+        "Service": "sagemakera2iruntime"
+      }
+    ],
+    "Package": "sagemakera2iruntime"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Buckets",
+        "Service": "macie2"
+      },
+      {
+        "Method": "ClassificationJob",
+        "Service": "macie2"
+      },
+      {
+        "Method": "OrganizationConfiguration",
+        "Service": "macie2"
+      }
+    ],
+    "Package": "macie2"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Flow",
+        "Service": "mediaconnect"
+      },
+      {
+        "Method": "Offering",
+        "Service": "mediaconnect"
+      },
+      {
+        "Method": "Reservation",
+        "Service": "mediaconnect"
+      }
+    ],
+    "Package": "mediaconnect"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AccountAttributes",
+        "Service": "redshift"
+      },
+      {
+        "Method": "AuthenticationProfiles",
+        "Service": "redshift"
+      },
+      {
+        "Method": "ClusterDbRevisions",
+        "Service": "redshift"
+      },
+      {
+        "Method": "ClusterParameterGroups",
+        "Service": "redshift"
+      },
+      {
+        "Method": "ClusterParameters",
+        "Service": "redshift"
+      },
+      {
+        "Method": "ClusterSecurityGroups",
+        "Service": "redshift"
+      },
+      {
+        "Method": "ClusterSnapshots",
+        "Service": "redshift"
+      },
+      {
+        "Method": "ClusterSubnetGroups",
+        "Service": "redshift"
+      },
+      {
+        "Method": "ClusterTracks",
+        "Service": "redshift"
+      },
+      {
+        "Method": "ClusterVersions",
+        "Service": "redshift"
+      },
+      {
+        "Method": "Clusters",
+        "Service": "redshift"
+      },
+      {
+        "Method": "DataShares",
+        "Service": "redshift"
+      },
+      {
+        "Method": "DataSharesForConsumer",
+        "Service": "redshift"
+      },
+      {
+        "Method": "DataSharesForProducer",
+        "Service": "redshift"
+      },
+      {
+        "Method": "DefaultClusterParameters",
+        "Service": "redshift"
+      },
+      {
+        "Method": "EndpointAccess",
+        "Service": "redshift"
+      },
+      {
+        "Method": "EndpointAuthorization",
+        "Service": "redshift"
+      },
+      {
+        "Method": "EventCategories",
+        "Service": "redshift"
+      },
+      {
+        "Method": "EventSubscriptions",
+        "Service": "redshift"
+      },
+      {
+        "Method": "Events",
+        "Service": "redshift"
+      },
+      {
+        "Method": "HsmClientCertificates",
+        "Service": "redshift"
+      },
+      {
+        "Method": "HsmConfigurations",
+        "Service": "redshift"
+      },
+      {
+        "Method": "LoggingStatus",
+        "Service": "redshift"
+      },
+      {
+        "Method": "NodeConfigurationOptions",
+        "Service": "redshift"
+      },
+      {
+        "Method": "OrderableClusterOptions",
+        "Service": "redshift"
+      },
+      {
+        "Method": "Partners",
+        "Service": "redshift"
+      },
+      {
+        "Method": "ReservedNodeExchangeStatus",
+        "Service": "redshift"
+      },
+      {
+        "Method": "ReservedNodeOfferings",
+        "Service": "redshift"
+      },
+      {
+        "Method": "ReservedNodes",
+        "Service": "redshift"
+      },
+      {
+        "Method": "Resize",
+        "Service": "redshift"
+      },
+      {
+        "Method": "ScheduledActions",
+        "Service": "redshift"
+      },
+      {
+        "Method": "SnapshotCopyGrants",
+        "Service": "redshift"
+      },
+      {
+        "Method": "SnapshotSchedules",
+        "Service": "redshift"
+      },
+      {
+        "Method": "Storage",
+        "Service": "redshift"
+      },
+      {
+        "Method": "TableRestoreStatus",
+        "Service": "redshift"
+      },
+      {
+        "Method": "Tags",
+        "Service": "redshift"
+      },
+      {
+        "Method": "UsageLimits",
+        "Service": "redshift"
+      }
+    ],
+    "Package": "redshift"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Activations",
+        "Service": "ssm"
+      },
+      {
+        "Method": "Association",
+        "Service": "ssm"
+      },
+      {
+        "Method": "AssociationExecutionTargets",
+        "Service": "ssm"
+      },
+      {
+        "Method": "AssociationExecutions",
+        "Service": "ssm"
+      },
+      {
+        "Method": "AutomationExecutions",
+        "Service": "ssm"
+      },
+      {
+        "Method": "AutomationStepExecutions",
+        "Service": "ssm"
+      },
+      {
+        "Method": "AvailablePatches",
+        "Service": "ssm"
+      },
+      {
+        "Method": "Document",
+        "Service": "ssm"
+      },
+      {
+        "Method": "DocumentPermission",
+        "Service": "ssm"
+      },
+      {
+        "Method": "EffectiveInstanceAssociations",
+        "Service": "ssm"
+      },
+      {
+        "Method": "EffectivePatchesForPatchBaseline",
+        "Service": "ssm"
+      },
+      {
+        "Method": "InstanceAssociationsStatus",
+        "Service": "ssm"
+      },
+      {
+        "Method": "InstanceInformation",
+        "Service": "ssm"
+      },
+      {
+        "Method": "InstancePatchStates",
+        "Service": "ssm"
+      },
+      {
+        "Method": "InstancePatchStatesForPatchGroup",
+        "Service": "ssm"
+      },
+      {
+        "Method": "InstancePatches",
+        "Service": "ssm"
+      },
+      {
+        "Method": "InventoryDeletions",
+        "Service": "ssm"
+      },
+      {
+        "Method": "MaintenanceWindowExecutionTaskInvocations",
+        "Service": "ssm"
+      },
+      {
+        "Method": "MaintenanceWindowExecutionTasks",
+        "Service": "ssm"
+      },
+      {
+        "Method": "MaintenanceWindowExecutions",
+        "Service": "ssm"
+      },
+      {
+        "Method": "MaintenanceWindowSchedule",
+        "Service": "ssm"
+      },
+      {
+        "Method": "MaintenanceWindowTargets",
+        "Service": "ssm"
+      },
+      {
+        "Method": "MaintenanceWindowTasks",
+        "Service": "ssm"
+      },
+      {
+        "Method": "MaintenanceWindows",
+        "Service": "ssm"
+      },
+      {
+        "Method": "MaintenanceWindowsForTarget",
+        "Service": "ssm"
+      },
+      {
+        "Method": "OpsItems",
+        "Service": "ssm"
+      },
+      {
+        "Method": "Parameters",
+        "Service": "ssm"
+      },
+      {
+        "Method": "PatchBaselines",
+        "Service": "ssm"
+      },
+      {
+        "Method": "PatchGroupState",
+        "Service": "ssm"
+      },
+      {
+        "Method": "PatchGroups",
+        "Service": "ssm"
+      },
+      {
+        "Method": "PatchProperties",
+        "Service": "ssm"
+      },
+      {
+        "Method": "Sessions",
+        "Service": "ssm"
+      }
+    ],
+    "Package": "ssm"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AuditStreamConfiguration",
+        "Service": "worklink"
+      },
+      {
+        "Method": "CompanyNetworkConfiguration",
+        "Service": "worklink"
+      },
+      {
+        "Method": "Device",
+        "Service": "worklink"
+      },
+      {
+        "Method": "DevicePolicyConfiguration",
+        "Service": "worklink"
+      },
+      {
+        "Method": "Domain",
+        "Service": "worklink"
+      },
+      {
+        "Method": "FleetMetadata",
+        "Service": "worklink"
+      },
+      {
+        "Method": "IdentityProviderConfiguration",
+        "Service": "worklink"
+      },
+      {
+        "Method": "WebsiteCertificateAuthority",
+        "Service": "worklink"
+      }
+    ],
+    "Package": "worklink"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Access",
+        "Service": "transfer"
+      },
+      {
+        "Method": "Agreement",
+        "Service": "transfer"
+      },
+      {
+        "Method": "Certificate",
+        "Service": "transfer"
+      },
+      {
+        "Method": "Connector",
+        "Service": "transfer"
+      },
+      {
+        "Method": "Execution",
+        "Service": "transfer"
+      },
+      {
+        "Method": "HostKey",
+        "Service": "transfer"
+      },
+      {
+        "Method": "Profile",
+        "Service": "transfer"
+      },
+      {
+        "Method": "SecurityPolicy",
+        "Service": "transfer"
+      },
+      {
+        "Method": "Server",
+        "Service": "transfer"
+      },
+      {
+        "Method": "User",
+        "Service": "transfer"
+      },
+      {
+        "Method": "Workflow",
+        "Service": "transfer"
+      }
+    ],
+    "Package": "transfer"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Certificate",
+        "Service": "acm"
+      }
+    ],
+    "Package": "acm"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ProfilingGroup",
+        "Service": "codeguruprofiler"
+      }
+    ],
+    "Package": "codeguruprofiler"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Addon",
+        "Service": "eks"
+      },
+      {
+        "Method": "AddonVersions",
+        "Service": "eks"
+      },
+      {
+        "Method": "Cluster",
+        "Service": "eks"
+      },
+      {
+        "Method": "FargateProfile",
+        "Service": "eks"
+      },
+      {
+        "Method": "IdentityProviderConfig",
+        "Service": "eks"
+      },
+      {
+        "Method": "Nodegroup",
+        "Service": "eks"
+      },
+      {
+        "Method": "Update",
+        "Service": "eks"
+      }
+    ],
+    "Package": "eks"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ApplicationState",
+        "Service": "migrationhub"
+      },
+      {
+        "Method": "MigrationTask",
+        "Service": "migrationhub"
+      }
+    ],
+    "Package": "migrationhub"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Secret",
+        "Service": "secretsmanager"
+      }
+    ],
+    "Package": "secretsmanager"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Canaries",
+        "Service": "synthetics"
+      },
+      {
+        "Method": "CanariesLastRun",
+        "Service": "synthetics"
+      },
+      {
+        "Method": "RuntimeVersions",
+        "Service": "synthetics"
+      }
+    ],
+    "Package": "synthetics"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Dataset",
+        "Service": "cognitosync"
+      },
+      {
+        "Method": "IdentityPoolUsage",
+        "Service": "cognitosync"
+      },
+      {
+        "Method": "IdentityUsage",
+        "Service": "cognitosync"
+      }
+    ],
+    "Package": "cognitosync"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "DimensionKeys",
+        "Service": "pi"
+      }
+    ],
+    "Package": "pi"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AlertManagerDefinition",
+        "Service": "amp"
+      },
+      {
+        "Method": "LoggingConfiguration",
+        "Service": "amp"
+      },
+      {
+        "Method": "RuleGroupsNamespace",
+        "Service": "amp"
+      },
+      {
+        "Method": "Workspace",
+        "Service": "amp"
+      }
+    ],
+    "Package": "amp"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Agents",
+        "Service": "applicationdiscoveryservice"
+      },
+      {
+        "Method": "Configurations",
+        "Service": "applicationdiscoveryservice"
+      },
+      {
+        "Method": "ContinuousExports",
+        "Service": "applicationdiscoveryservice"
+      },
+      {
+        "Method": "ExportConfigurations",
+        "Service": "applicationdiscoveryservice"
+      },
+      {
+        "Method": "ExportTasks",
+        "Service": "applicationdiscoveryservice"
+      },
+      {
+        "Method": "ImportTasks",
+        "Service": "applicationdiscoveryservice"
+      },
+      {
+        "Method": "Tags",
+        "Service": "applicationdiscoveryservice"
+      }
+    ],
+    "Package": "applicationdiscoveryservice"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "CodeCoverages",
+        "Service": "codebuild"
+      },
+      {
+        "Method": "TestCases",
+        "Service": "codebuild"
+      }
+    ],
+    "Package": "codebuild"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Campaign",
+        "Service": "connectcampaigns"
+      }
+    ],
+    "Package": "connectcampaigns"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AccountAuditConfiguration",
+        "Service": "iot"
+      },
+      {
+        "Method": "AuditFinding",
+        "Service": "iot"
+      },
+      {
+        "Method": "AuditMitigationActionsTask",
+        "Service": "iot"
+      },
+      {
+        "Method": "AuditSuppression",
+        "Service": "iot"
+      },
+      {
+        "Method": "AuditTask",
+        "Service": "iot"
+      },
+      {
+        "Method": "Authorizer",
+        "Service": "iot"
+      },
+      {
+        "Method": "BillingGroup",
+        "Service": "iot"
+      },
+      {
+        "Method": "CACertificate",
+        "Service": "iot"
+      },
+      {
+        "Method": "Certificate",
+        "Service": "iot"
+      },
+      {
+        "Method": "CustomMetric",
+        "Service": "iot"
+      },
+      {
+        "Method": "DefaultAuthorizer",
+        "Service": "iot"
+      },
+      {
+        "Method": "DetectMitigationActionsTask",
+        "Service": "iot"
+      },
+      {
+        "Method": "Dimension",
+        "Service": "iot"
+      },
+      {
+        "Method": "DomainConfiguration",
+        "Service": "iot"
+      },
+      {
+        "Method": "Endpoint",
+        "Service": "iot"
+      },
+      {
+        "Method": "EventConfigurations",
+        "Service": "iot"
+      },
+      {
+        "Method": "FleetMetric",
+        "Service": "iot"
+      },
+      {
+        "Method": "Index",
+        "Service": "iot"
+      },
+      {
+        "Method": "Job",
+        "Service": "iot"
+      },
+      {
+        "Method": "JobExecution",
+        "Service": "iot"
+      },
+      {
+        "Method": "JobTemplate",
+        "Service": "iot"
+      },
+      {
+        "Method": "ManagedJobTemplate",
+        "Service": "iot"
+      },
+      {
+        "Method": "MitigationAction",
+        "Service": "iot"
+      },
+      {
+        "Method": "ProvisioningTemplate",
+        "Service": "iot"
+      },
+      {
+        "Method": "ProvisioningTemplateVersion",
+        "Service": "iot"
+      },
+      {
+        "Method": "RoleAlias",
+        "Service": "iot"
+      },
+      {
+        "Method": "ScheduledAudit",
+        "Service": "iot"
+      },
+      {
+        "Method": "SecurityProfile",
+        "Service": "iot"
+      },
+      {
+        "Method": "Stream",
+        "Service": "iot"
+      },
+      {
+        "Method": "Thing",
+        "Service": "iot"
+      },
+      {
+        "Method": "ThingGroup",
+        "Service": "iot"
+      },
+      {
+        "Method": "ThingRegistrationTask",
+        "Service": "iot"
+      },
+      {
+        "Method": "ThingType",
+        "Service": "iot"
+      }
+    ],
+    "Package": "iot"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Application",
+        "Service": "applicationinsights"
+      },
+      {
+        "Method": "Component",
+        "Service": "applicationinsights"
+      },
+      {
+        "Method": "ComponentConfiguration",
+        "Service": "applicationinsights"
+      },
+      {
+        "Method": "ComponentConfigurationRecommendation",
+        "Service": "applicationinsights"
+      },
+      {
+        "Method": "LogPattern",
+        "Service": "applicationinsights"
+      },
+      {
+        "Method": "Observation",
+        "Service": "applicationinsights"
+      },
+      {
+        "Method": "Problem",
+        "Service": "applicationinsights"
+      },
+      {
+        "Method": "ProblemObservations",
+        "Service": "applicationinsights"
+      }
+    ],
+    "Package": "applicationinsights"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Dataset",
+        "Service": "databrew"
+      },
+      {
+        "Method": "Job",
+        "Service": "databrew"
+      },
+      {
+        "Method": "JobRun",
+        "Service": "databrew"
+      },
+      {
+        "Method": "Project",
+        "Service": "databrew"
+      },
+      {
+        "Method": "Recipe",
+        "Service": "databrew"
+      },
+      {
+        "Method": "Ruleset",
+        "Service": "databrew"
+      },
+      {
+        "Method": "Schedule",
+        "Service": "databrew"
+      }
+    ],
+    "Package": "databrew"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AccessControlConfiguration",
+        "Service": "kendra"
+      },
+      {
+        "Method": "DataSource",
+        "Service": "kendra"
+      },
+      {
+        "Method": "Experience",
+        "Service": "kendra"
+      },
+      {
+        "Method": "Faq",
+        "Service": "kendra"
+      },
+      {
+        "Method": "Index",
+        "Service": "kendra"
+      },
+      {
+        "Method": "PrincipalMapping",
+        "Service": "kendra"
+      },
+      {
+        "Method": "QuerySuggestionsBlockList",
+        "Service": "kendra"
+      },
+      {
+        "Method": "QuerySuggestionsConfig",
+        "Service": "kendra"
+      },
+      {
+        "Method": "Thesaurus",
+        "Service": "kendra"
+      }
+    ],
+    "Package": "kendra"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "App",
+        "Service": "resiliencehub"
+      },
+      {
+        "Method": "AppAssessment",
+        "Service": "resiliencehub"
+      },
+      {
+        "Method": "AppVersionResourcesResolutionStatus",
+        "Service": "resiliencehub"
+      },
+      {
+        "Method": "AppVersionTemplate",
+        "Service": "resiliencehub"
+      },
+      {
+        "Method": "DraftAppVersionResourcesImportStatus",
+        "Service": "resiliencehub"
+      },
+      {
+        "Method": "ResiliencyPolicy",
+        "Service": "resiliencehub"
+      }
+    ],
+    "Package": "resiliencehub"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ActiveReceiptRuleSet",
+        "Service": "ses"
+      },
+      {
+        "Method": "ConfigurationSet",
+        "Service": "ses"
+      },
+      {
+        "Method": "ReceiptRule",
+        "Service": "ses"
+      },
+      {
+        "Method": "ReceiptRuleSet",
+        "Service": "ses"
+      }
+    ],
+    "Package": "ses"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Budget",
+        "Service": "budgets"
+      },
+      {
+        "Method": "BudgetAction",
+        "Service": "budgets"
+      },
+      {
+        "Method": "BudgetActionHistories",
+        "Service": "budgets"
+      },
+      {
+        "Method": "BudgetActionsForAccount",
+        "Service": "budgets"
+      },
+      {
+        "Method": "BudgetActionsForBudget",
+        "Service": "budgets"
+      },
+      {
+        "Method": "BudgetNotificationsForAccount",
+        "Service": "budgets"
+      },
+      {
+        "Method": "BudgetPerformanceHistory",
+        "Service": "budgets"
+      },
+      {
+        "Method": "Budgets",
+        "Service": "budgets"
+      },
+      {
+        "Method": "NotificationsForBudget",
+        "Service": "budgets"
+      },
+      {
+        "Method": "SubscribersForNotification",
+        "Service": "budgets"
+      }
+    ],
+    "Package": "budgets"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AppInstance",
+        "Service": "chimesdkidentity"
+      },
+      {
+        "Method": "AppInstanceAdmin",
+        "Service": "chimesdkidentity"
+      },
+      {
+        "Method": "AppInstanceUser",
+        "Service": "chimesdkidentity"
+      },
+      {
+        "Method": "AppInstanceUserEndpoint",
+        "Service": "chimesdkidentity"
+      }
+    ],
+    "Package": "chimesdkidentity"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "JobLogItems",
+        "Service": "mgn"
+      },
+      {
+        "Method": "Jobs",
+        "Service": "mgn"
+      },
+      {
+        "Method": "LaunchConfigurationTemplates",
+        "Service": "mgn"
+      },
+      {
+        "Method": "ReplicationConfigurationTemplates",
+        "Service": "mgn"
+      },
+      {
+        "Method": "SourceServers",
+        "Service": "mgn"
+      },
+      {
+        "Method": "VcenterClients",
+        "Service": "mgn"
+      }
+    ],
+    "Package": "mgn"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AccountAttributes",
+        "Service": "opsworkscm"
+      },
+      {
+        "Method": "Backups",
+        "Service": "opsworkscm"
+      },
+      {
+        "Method": "Events",
+        "Service": "opsworkscm"
+      },
+      {
+        "Method": "NodeAssociationStatus",
+        "Service": "opsworkscm"
+      },
+      {
+        "Method": "Servers",
+        "Service": "opsworkscm"
+      }
+    ],
+    "Package": "opsworkscm"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AppBlocks",
+        "Service": "appstream"
+      },
+      {
+        "Method": "ApplicationFleetAssociations",
+        "Service": "appstream"
+      },
+      {
+        "Method": "Applications",
+        "Service": "appstream"
+      },
+      {
+        "Method": "DirectoryConfigs",
+        "Service": "appstream"
+      },
+      {
+        "Method": "Entitlements",
+        "Service": "appstream"
+      },
+      {
+        "Method": "Fleets",
+        "Service": "appstream"
+      },
+      {
+        "Method": "ImageBuilders",
+        "Service": "appstream"
+      },
+      {
+        "Method": "ImagePermissions",
+        "Service": "appstream"
+      },
+      {
+        "Method": "Images",
+        "Service": "appstream"
+      },
+      {
+        "Method": "Sessions",
+        "Service": "appstream"
+      },
+      {
+        "Method": "Stacks",
+        "Service": "appstream"
+      },
+      {
+        "Method": "UsageReportSubscriptions",
+        "Service": "appstream"
+      },
+      {
+        "Method": "UserStackAssociations",
+        "Service": "appstream"
+      },
+      {
+        "Method": "Users",
+        "Service": "appstream"
+      }
+    ],
+    "Package": "appstream"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AccountAttributes",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "ApplicableIndividualAssessments",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "Certificates",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "Connections",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "EndpointSettings",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "EndpointTypes",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "Endpoints",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "EventCategories",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "EventSubscriptions",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "Events",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "FleetAdvisorCollectors",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "FleetAdvisorDatabases",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "FleetAdvisorLsaAnalysis",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "FleetAdvisorSchemaObjectSummary",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "FleetAdvisorSchemas",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "OrderableReplicationInstances",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "PendingMaintenanceActions",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "RefreshSchemasStatus",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "ReplicationInstanceTaskLogs",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "ReplicationInstances",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "ReplicationSubnetGroups",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "ReplicationTaskAssessmentResults",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "ReplicationTaskAssessmentRuns",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "ReplicationTaskIndividualAssessments",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "ReplicationTasks",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "Schemas",
+        "Service": "databasemigrationservice"
+      },
+      {
+        "Method": "TableStatistics",
+        "Service": "databasemigrationservice"
+      }
+    ],
+    "Package": "databasemigrationservice"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "GeofenceCollection",
+        "Service": "location"
+      },
+      {
+        "Method": "Map",
+        "Service": "location"
+      },
+      {
+        "Method": "PlaceIndex",
+        "Service": "location"
+      },
+      {
+        "Method": "RouteCalculator",
+        "Service": "location"
+      },
+      {
+        "Method": "Tracker",
+        "Service": "location"
+      }
+    ],
+    "Package": "location"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Attack",
+        "Service": "shield"
+      },
+      {
+        "Method": "AttackStatistics",
+        "Service": "shield"
+      },
+      {
+        "Method": "DRTAccess",
+        "Service": "shield"
+      },
+      {
+        "Method": "EmergencyContactSettings",
+        "Service": "shield"
+      },
+      {
+        "Method": "Protection",
+        "Service": "shield"
+      },
+      {
+        "Method": "ProtectionGroup",
+        "Service": "shield"
+      },
+      {
+        "Method": "Subscription",
+        "Service": "shield"
+      }
+    ],
+    "Package": "shield"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "LanguageModel",
+        "Service": "transcribe"
+      }
+    ],
+    "Package": "transcribe"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Broker",
+        "Service": "mq"
+      },
+      {
+        "Method": "BrokerEngineTypes",
+        "Service": "mq"
+      },
+      {
+        "Method": "BrokerInstanceOptions",
+        "Service": "mq"
+      },
+      {
+        "Method": "Configuration",
+        "Service": "mq"
+      },
+      {
+        "Method": "ConfigurationRevision",
+        "Service": "mq"
+      },
+      {
+        "Method": "User",
+        "Service": "mq"
+      }
+    ],
+    "Package": "mq"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AccountAssignmentCreationStatus",
+        "Service": "ssoadmin"
+      },
+      {
+        "Method": "AccountAssignmentDeletionStatus",
+        "Service": "ssoadmin"
+      },
+      {
+        "Method": "InstanceAccessControlAttributeConfiguration",
+        "Service": "ssoadmin"
+      },
+      {
+        "Method": "PermissionSet",
+        "Service": "ssoadmin"
+      },
+      {
+        "Method": "PermissionSetProvisioningStatus",
+        "Service": "ssoadmin"
+      }
+    ],
+    "Package": "ssoadmin"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Domain",
+        "Service": "codeartifact"
+      },
+      {
+        "Method": "Package",
+        "Service": "codeartifact"
+      },
+      {
+        "Method": "PackageVersion",
+        "Service": "codeartifact"
+      },
+      {
+        "Method": "Repository",
+        "Service": "codeartifact"
+      }
+    ],
+    "Package": "codeartifact"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Agent",
+        "Service": "datasync"
+      },
+      {
+        "Method": "LocationEfs",
+        "Service": "datasync"
+      },
+      {
+        "Method": "LocationFsxLustre",
+        "Service": "datasync"
+      },
+      {
+        "Method": "LocationFsxOntap",
+        "Service": "datasync"
+      },
+      {
+        "Method": "LocationFsxOpenZfs",
+        "Service": "datasync"
+      },
+      {
+        "Method": "LocationFsxWindows",
+        "Service": "datasync"
+      },
+      {
+        "Method": "LocationHdfs",
+        "Service": "datasync"
+      },
+      {
+        "Method": "LocationNfs",
+        "Service": "datasync"
+      },
+      {
+        "Method": "LocationObjectStorage",
+        "Service": "datasync"
+      },
+      {
+        "Method": "LocationS3",
+        "Service": "datasync"
+      },
+      {
+        "Method": "LocationSmb",
+        "Service": "datasync"
+      },
+      {
+        "Method": "Task",
+        "Service": "datasync"
+      },
+      {
+        "Method": "TaskExecution",
+        "Service": "datasync"
+      }
+    ],
+    "Package": "datasync"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Certificates",
+        "Service": "docdb"
+      },
+      {
+        "Method": "DBClusterParameterGroups",
+        "Service": "docdb"
+      },
+      {
+        "Method": "DBClusterParameters",
+        "Service": "docdb"
+      },
+      {
+        "Method": "DBClusterSnapshotAttributes",
+        "Service": "docdb"
+      },
+      {
+        "Method": "DBClusterSnapshots",
+        "Service": "docdb"
+      },
+      {
+        "Method": "DBClusters",
+        "Service": "docdb"
+      },
+      {
+        "Method": "DBEngineVersions",
+        "Service": "docdb"
+      },
+      {
+        "Method": "DBInstances",
+        "Service": "docdb"
+      },
+      {
+        "Method": "DBSubnetGroups",
+        "Service": "docdb"
+      },
+      {
+        "Method": "EngineDefaultClusterParameters",
+        "Service": "docdb"
+      },
+      {
+        "Method": "EventCategories",
+        "Service": "docdb"
+      },
+      {
+        "Method": "EventSubscriptions",
+        "Service": "docdb"
+      },
+      {
+        "Method": "Events",
+        "Service": "docdb"
+      },
+      {
+        "Method": "GlobalClusters",
+        "Service": "docdb"
+      },
+      {
+        "Method": "OrderableDBInstanceOptions",
+        "Service": "docdb"
+      },
+      {
+        "Method": "PendingMaintenanceActions",
+        "Service": "docdb"
+      }
+    ],
+    "Package": "docdb"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Alias",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "Build",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "EC2InstanceLimits",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "FleetAttributes",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "FleetCapacity",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "FleetEvents",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "FleetLocationAttributes",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "FleetLocationCapacity",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "FleetLocationUtilization",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "FleetPortSettings",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "FleetUtilization",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "GameServer",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "GameServerGroup",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "GameServerInstances",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "GameSessionDetails",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "GameSessionPlacement",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "GameSessionQueues",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "GameSessions",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "Instances",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "Matchmaking",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "MatchmakingConfigurations",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "MatchmakingRuleSets",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "PlayerSessions",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "RuntimeConfiguration",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "ScalingPolicies",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "Script",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "VpcPeeringAuthorizations",
+        "Service": "gamelift"
+      },
+      {
+        "Method": "VpcPeeringConnections",
+        "Service": "gamelift"
+      }
+    ],
+    "Package": "gamelift"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Workspace",
+        "Service": "grafana"
+      },
+      {
+        "Method": "WorkspaceAuthentication",
+        "Service": "grafana"
+      }
+    ],
+    "Package": "grafana"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Contact",
+        "Service": "groundstation"
+      }
+    ],
+    "Package": "groundstation"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Account",
+        "Service": "workspaces"
+      },
+      {
+        "Method": "AccountModifications",
+        "Service": "workspaces"
+      },
+      {
+        "Method": "ClientBranding",
+        "Service": "workspaces"
+      },
+      {
+        "Method": "ClientProperties",
+        "Service": "workspaces"
+      },
+      {
+        "Method": "ConnectClientAddIns",
+        "Service": "workspaces"
+      },
+      {
+        "Method": "ConnectionAliasPermissions",
+        "Service": "workspaces"
+      },
+      {
+        "Method": "ConnectionAliases",
+        "Service": "workspaces"
+      },
+      {
+        "Method": "IpGroups",
+        "Service": "workspaces"
+      },
+      {
+        "Method": "Tags",
+        "Service": "workspaces"
+      },
+      {
+        "Method": "WorkspaceBundles",
+        "Service": "workspaces"
+      },
+      {
+        "Method": "WorkspaceDirectories",
+        "Service": "workspaces"
+      },
+      {
+        "Method": "WorkspaceImagePermissions",
+        "Service": "workspaces"
+      },
+      {
+        "Method": "WorkspaceImages",
+        "Service": "workspaces"
+      },
+      {
+        "Method": "WorkspaceSnapshots",
+        "Service": "workspaces"
+      },
+      {
+        "Method": "Workspaces",
+        "Service": "workspaces"
+      },
+      {
+        "Method": "WorkspacesConnectionStatus",
+        "Service": "workspaces"
+      }
+    ],
+    "Package": "workspaces"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ACLs",
+        "Service": "memorydb"
+      },
+      {
+        "Method": "Clusters",
+        "Service": "memorydb"
+      },
+      {
+        "Method": "EngineVersions",
+        "Service": "memorydb"
+      },
+      {
+        "Method": "Events",
+        "Service": "memorydb"
+      },
+      {
+        "Method": "ParameterGroups",
+        "Service": "memorydb"
+      },
+      {
+        "Method": "Parameters",
+        "Service": "memorydb"
+      },
+      {
+        "Method": "ServiceUpdates",
+        "Service": "memorydb"
+      },
+      {
+        "Method": "Snapshots",
+        "Service": "memorydb"
+      },
+      {
+        "Method": "SubnetGroups",
+        "Service": "memorydb"
+      },
+      {
+        "Method": "Users",
+        "Service": "memorydb"
+      }
+    ],
+    "Package": "memorydb"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Action",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "Algorithm",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "App",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "AppImageConfig",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "Artifact",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "AutoMLJob",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "CodeRepository",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "CompilationJob",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "Context",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "DataQualityJobDefinition",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "Device",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "DeviceFleet",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "Domain",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "EdgeDeploymentPlan",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "EdgePackagingJob",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "Endpoint",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "EndpointConfig",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "Experiment",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "FeatureGroup",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "FeatureMetadata",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "FlowDefinition",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "HumanTaskUi",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "HyperParameterTuningJob",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "Image",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "ImageVersion",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "InferenceRecommendationsJob",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "LabelingJob",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "LineageGroup",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "Model",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "ModelBiasJobDefinition",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "ModelExplainabilityJobDefinition",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "ModelPackage",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "ModelPackageGroup",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "ModelQualityJobDefinition",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "MonitoringSchedule",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "NotebookInstance",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "NotebookInstanceLifecycleConfig",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "Pipeline",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "PipelineDefinitionForExecution",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "PipelineExecution",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "ProcessingJob",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "Project",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "StudioLifecycleConfig",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "SubscribedWorkteam",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "TrainingJob",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "TransformJob",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "Trial",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "TrialComponent",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "UserProfile",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "Workforce",
+        "Service": "sagemaker"
+      },
+      {
+        "Method": "Workteam",
+        "Service": "sagemaker"
+      }
+    ],
+    "Package": "sagemaker"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "GatewayRoute",
+        "Service": "appmesh"
+      },
+      {
+        "Method": "Mesh",
+        "Service": "appmesh"
+      },
+      {
+        "Method": "Route",
+        "Service": "appmesh"
+      },
+      {
+        "Method": "VirtualGateway",
+        "Service": "appmesh"
+      },
+      {
+        "Method": "VirtualNode",
+        "Service": "appmesh"
+      },
+      {
+        "Method": "VirtualRouter",
+        "Service": "appmesh"
+      },
+      {
+        "Method": "VirtualService",
+        "Service": "appmesh"
+      }
+    ],
+    "Package": "appmesh"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Destinations",
+        "Service": "cloudwatchlogs"
+      },
+      {
+        "Method": "ExportTasks",
+        "Service": "cloudwatchlogs"
+      },
+      {
+        "Method": "LogGroups",
+        "Service": "cloudwatchlogs"
+      },
+      {
+        "Method": "LogStreams",
+        "Service": "cloudwatchlogs"
+      },
+      {
+        "Method": "MetricFilters",
+        "Service": "cloudwatchlogs"
+      },
+      {
+        "Method": "Queries",
+        "Service": "cloudwatchlogs"
+      },
+      {
+        "Method": "QueryDefinitions",
+        "Service": "cloudwatchlogs"
+      },
+      {
+        "Method": "ResourcePolicies",
+        "Service": "cloudwatchlogs"
+      },
+      {
+        "Method": "SubscriptionFilters",
+        "Service": "cloudwatchlogs"
+      }
+    ],
+    "Package": "cloudwatchlogs"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Accelerator",
+        "Service": "globalaccelerator"
+      },
+      {
+        "Method": "AcceleratorAttributes",
+        "Service": "globalaccelerator"
+      },
+      {
+        "Method": "CustomRoutingAccelerator",
+        "Service": "globalaccelerator"
+      },
+      {
+        "Method": "CustomRoutingAcceleratorAttributes",
+        "Service": "globalaccelerator"
+      },
+      {
+        "Method": "CustomRoutingEndpointGroup",
+        "Service": "globalaccelerator"
+      },
+      {
+        "Method": "CustomRoutingListener",
+        "Service": "globalaccelerator"
+      },
+      {
+        "Method": "EndpointGroup",
+        "Service": "globalaccelerator"
+      },
+      {
+        "Method": "Listener",
+        "Service": "globalaccelerator"
+      }
+    ],
+    "Package": "globalaccelerator"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "OrganizationConfiguration",
+        "Service": "inspector2"
+      }
+    ],
+    "Package": "inspector2"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Alert",
+        "Service": "lookoutmetrics"
+      },
+      {
+        "Method": "AnomalyDetectionExecutions",
+        "Service": "lookoutmetrics"
+      },
+      {
+        "Method": "AnomalyDetector",
+        "Service": "lookoutmetrics"
+      },
+      {
+        "Method": "MetricSet",
+        "Service": "lookoutmetrics"
+      }
+    ],
+    "Package": "lookoutmetrics"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Channel",
+        "Service": "mediatailor"
+      },
+      {
+        "Method": "LiveSource",
+        "Service": "mediatailor"
+      },
+      {
+        "Method": "Program",
+        "Service": "mediatailor"
+      },
+      {
+        "Method": "SourceLocation",
+        "Service": "mediatailor"
+      },
+      {
+        "Method": "VodSource",
+        "Service": "mediatailor"
+      }
+    ],
+    "Package": "mediatailor"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Activity",
+        "Service": "sfn"
+      },
+      {
+        "Method": "Execution",
+        "Service": "sfn"
+      },
+      {
+        "Method": "StateMachine",
+        "Service": "sfn"
+      },
+      {
+        "Method": "StateMachineForExecution",
+        "Service": "sfn"
+      }
+    ],
+    "Package": "sfn"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "RecommendationExportJobs",
+        "Service": "computeoptimizer"
+      }
+    ],
+    "Package": "computeoptimizer"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ChangeSet",
+        "Service": "marketplacecatalog"
+      },
+      {
+        "Method": "Entity",
+        "Service": "marketplacecatalog"
+      }
+    ],
+    "Package": "marketplacecatalog"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Constraint",
+        "Service": "servicecatalog"
+      },
+      {
+        "Method": "CopyProductStatus",
+        "Service": "servicecatalog"
+      },
+      {
+        "Method": "Portfolio",
+        "Service": "servicecatalog"
+      },
+      {
+        "Method": "PortfolioShareStatus",
+        "Service": "servicecatalog"
+      },
+      {
+        "Method": "PortfolioShares",
+        "Service": "servicecatalog"
+      },
+      {
+        "Method": "Product",
+        "Service": "servicecatalog"
+      },
+      {
+        "Method": "ProductAsAdmin",
+        "Service": "servicecatalog"
+      },
+      {
+        "Method": "ProductView",
+        "Service": "servicecatalog"
+      },
+      {
+        "Method": "ProvisionedProduct",
+        "Service": "servicecatalog"
+      },
+      {
+        "Method": "ProvisionedProductPlan",
+        "Service": "servicecatalog"
+      },
+      {
+        "Method": "ProvisioningArtifact",
+        "Service": "servicecatalog"
+      },
+      {
+        "Method": "ProvisioningParameters",
+        "Service": "servicecatalog"
+      },
+      {
+        "Method": "Record",
+        "Service": "servicecatalog"
+      },
+      {
+        "Method": "ServiceAction",
+        "Service": "servicecatalog"
+      },
+      {
+        "Method": "ServiceActionExecutionParameters",
+        "Service": "servicecatalog"
+      },
+      {
+        "Method": "TagOption",
+        "Service": "servicecatalog"
+      }
+    ],
+    "Package": "servicecatalog"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Container",
+        "Service": "mediastore"
+      }
+    ],
+    "Package": "mediastore"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "CertificateAuthority",
+        "Service": "acmpca"
+      },
+      {
+        "Method": "CertificateAuthorityAuditReport",
+        "Service": "acmpca"
+      }
+    ],
+    "Package": "acmpca"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "EntitiesDetectionV2Job",
+        "Service": "comprehendmedical"
+      },
+      {
+        "Method": "ICD10CMInferenceJob",
+        "Service": "comprehendmedical"
+      },
+      {
+        "Method": "PHIDetectionJob",
+        "Service": "comprehendmedical"
+      },
+      {
+        "Method": "RxNormInferenceJob",
+        "Service": "comprehendmedical"
+      },
+      {
+        "Method": "SNOMEDCTInferenceJob",
+        "Service": "comprehendmedical"
+      }
+    ],
+    "Package": "comprehendmedical"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "DomainAutoTunes",
+        "Service": "elasticsearchservice"
+      },
+      {
+        "Method": "DomainChangeProgress",
+        "Service": "elasticsearchservice"
+      },
+      {
+        "Method": "ElasticsearchDomain",
+        "Service": "elasticsearchservice"
+      },
+      {
+        "Method": "ElasticsearchDomainConfig",
+        "Service": "elasticsearchservice"
+      },
+      {
+        "Method": "ElasticsearchDomains",
+        "Service": "elasticsearchservice"
+      },
+      {
+        "Method": "ElasticsearchInstanceTypeLimits",
+        "Service": "elasticsearchservice"
+      },
+      {
+        "Method": "InboundCrossClusterSearchConnections",
+        "Service": "elasticsearchservice"
+      },
+      {
+        "Method": "OutboundCrossClusterSearchConnections",
+        "Service": "elasticsearchservice"
+      },
+      {
+        "Method": "Packages",
+        "Service": "elasticsearchservice"
+      },
+      {
+        "Method": "ReservedElasticsearchInstanceOfferings",
+        "Service": "elasticsearchservice"
+      },
+      {
+        "Method": "ReservedElasticsearchInstances",
+        "Service": "elasticsearchservice"
+      }
+    ],
+    "Package": "elasticsearchservice"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Channel",
+        "Service": "iotanalytics"
+      },
+      {
+        "Method": "Dataset",
+        "Service": "iotanalytics"
+      },
+      {
+        "Method": "Datastore",
+        "Service": "iotanalytics"
+      },
+      {
+        "Method": "LoggingOptions",
+        "Service": "iotanalytics"
+      },
+      {
+        "Method": "Pipeline",
+        "Service": "iotanalytics"
+      }
+    ],
+    "Package": "iotanalytics"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AlarmModel",
+        "Service": "iotevents"
+      },
+      {
+        "Method": "DetectorModel",
+        "Service": "iotevents"
+      },
+      {
+        "Method": "DetectorModelAnalysis",
+        "Service": "iotevents"
+      },
+      {
+        "Method": "Input",
+        "Service": "iotevents"
+      },
+      {
+        "Method": "LoggingOptions",
+        "Service": "iotevents"
+      }
+    ],
+    "Package": "iotevents"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "CustomKeyStores",
+        "Service": "kms"
+      },
+      {
+        "Method": "Key",
+        "Service": "kms"
+      }
+    ],
+    "Package": "kms"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Detector",
+        "Service": "frauddetector"
+      },
+      {
+        "Method": "ModelVersions",
+        "Service": "frauddetector"
+      }
+    ],
+    "Package": "frauddetector"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "MalwareScans",
+        "Service": "guardduty"
+      },
+      {
+        "Method": "OrganizationConfiguration",
+        "Service": "guardduty"
+      },
+      {
+        "Method": "PublishingDestination",
+        "Service": "guardduty"
+      }
+    ],
+    "Package": "guardduty"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Connector",
+        "Service": "kafkaconnect"
+      },
+      {
+        "Method": "CustomPlugin",
+        "Service": "kafkaconnect"
+      },
+      {
+        "Method": "WorkerConfiguration",
+        "Service": "kafkaconnect"
+      }
+    ],
+    "Package": "kafkaconnect"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Channel",
+        "Service": "medialive"
+      },
+      {
+        "Method": "Input",
+        "Service": "medialive"
+      },
+      {
+        "Method": "InputDevice",
+        "Service": "medialive"
+      },
+      {
+        "Method": "InputDeviceThumbnail",
+        "Service": "medialive"
+      },
+      {
+        "Method": "InputSecurityGroup",
+        "Service": "medialive"
+      },
+      {
+        "Method": "Multiplex",
+        "Service": "medialive"
+      },
+      {
+        "Method": "MultiplexProgram",
+        "Service": "medialive"
+      },
+      {
+        "Method": "Offering",
+        "Service": "medialive"
+      },
+      {
+        "Method": "Reservation",
+        "Service": "medialive"
+      },
+      {
+        "Method": "Schedule",
+        "Service": "medialive"
+      }
+    ],
+    "Package": "medialive"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Algorithm",
+        "Service": "personalize"
+      },
+      {
+        "Method": "BatchInferenceJob",
+        "Service": "personalize"
+      },
+      {
+        "Method": "BatchSegmentJob",
+        "Service": "personalize"
+      },
+      {
+        "Method": "Campaign",
+        "Service": "personalize"
+      },
+      {
+        "Method": "Dataset",
+        "Service": "personalize"
+      },
+      {
+        "Method": "DatasetExportJob",
+        "Service": "personalize"
+      },
+      {
+        "Method": "DatasetGroup",
+        "Service": "personalize"
+      },
+      {
+        "Method": "DatasetImportJob",
+        "Service": "personalize"
+      },
+      {
+        "Method": "EventTracker",
+        "Service": "personalize"
+      },
+      {
+        "Method": "FeatureTransformation",
+        "Service": "personalize"
+      },
+      {
+        "Method": "Filter",
+        "Service": "personalize"
+      },
+      {
+        "Method": "Recipe",
+        "Service": "personalize"
+      },
+      {
+        "Method": "Recommender",
+        "Service": "personalize"
+      },
+      {
+        "Method": "Schema",
+        "Service": "personalize"
+      },
+      {
+        "Method": "Solution",
+        "Service": "personalize"
+      },
+      {
+        "Method": "SolutionVersion",
+        "Service": "personalize"
+      }
+    ],
+    "Package": "personalize"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Database",
+        "Service": "timestreamwrite"
+      },
+      {
+        "Method": "Endpoints",
+        "Service": "timestreamwrite"
+      },
+      {
+        "Method": "Table",
+        "Service": "timestreamwrite"
+      }
+    ],
+    "Package": "timestreamwrite"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Dataset",
+        "Service": "lookoutvision"
+      },
+      {
+        "Method": "Model",
+        "Service": "lookoutvision"
+      },
+      {
+        "Method": "ModelPackagingJob",
+        "Service": "lookoutvision"
+      },
+      {
+        "Method": "Project",
+        "Service": "lookoutvision"
+      }
+    ],
+    "Package": "lookoutvision"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Cluster",
+        "Service": "route53recoverycontrolconfig"
+      },
+      {
+        "Method": "ControlPanel",
+        "Service": "route53recoverycontrolconfig"
+      },
+      {
+        "Method": "RoutingControl",
+        "Service": "route53recoverycontrolconfig"
+      },
+      {
+        "Method": "SafetyRule",
+        "Service": "route53recoverycontrolconfig"
+      }
+    ],
+    "Package": "route53recoverycontrolconfig"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Project",
+        "Service": "codestar"
+      },
+      {
+        "Method": "UserProfile",
+        "Service": "codestar"
+      }
+    ],
+    "Package": "codestar"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Identity",
+        "Service": "cognitoidentity"
+      },
+      {
+        "Method": "IdentityPool",
+        "Service": "cognitoidentity"
+      }
+    ],
+    "Package": "cognitoidentity"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "DeliveryStream",
+        "Service": "firehose"
+      }
+    ],
+    "Package": "firehose"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AutoPredictor",
+        "Service": "forecast"
+      },
+      {
+        "Method": "Dataset",
+        "Service": "forecast"
+      },
+      {
+        "Method": "DatasetGroup",
+        "Service": "forecast"
+      },
+      {
+        "Method": "DatasetImportJob",
+        "Service": "forecast"
+      },
+      {
+        "Method": "Explainability",
+        "Service": "forecast"
+      },
+      {
+        "Method": "ExplainabilityExport",
+        "Service": "forecast"
+      },
+      {
+        "Method": "Forecast",
+        "Service": "forecast"
+      },
+      {
+        "Method": "ForecastExportJob",
+        "Service": "forecast"
+      },
+      {
+        "Method": "Monitor",
+        "Service": "forecast"
+      },
+      {
+        "Method": "Predictor",
+        "Service": "forecast"
+      },
+      {
+        "Method": "PredictorBacktestExportJob",
+        "Service": "forecast"
+      },
+      {
+        "Method": "WhatIfAnalysis",
+        "Service": "forecast"
+      },
+      {
+        "Method": "WhatIfForecast",
+        "Service": "forecast"
+      },
+      {
+        "Method": "WhatIfForecastExport",
+        "Service": "forecast"
+      }
+    ],
+    "Package": "forecast"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AffectedAccountsForOrganization",
+        "Service": "health"
+      },
+      {
+        "Method": "AffectedEntities",
+        "Service": "health"
+      },
+      {
+        "Method": "AffectedEntitiesForOrganization",
+        "Service": "health"
+      },
+      {
+        "Method": "EntityAggregates",
+        "Service": "health"
+      },
+      {
+        "Method": "EventAggregates",
+        "Service": "health"
+      },
+      {
+        "Method": "EventDetails",
+        "Service": "health"
+      },
+      {
+        "Method": "EventDetailsForOrganization",
+        "Service": "health"
+      },
+      {
+        "Method": "EventTypes",
+        "Service": "health"
+      },
+      {
+        "Method": "Events",
+        "Service": "health"
+      },
+      {
+        "Method": "EventsForOrganization",
+        "Service": "health"
+      },
+      {
+        "Method": "HealthServiceStatusForOrganization",
+        "Service": "health"
+      }
+    ],
+    "Package": "health"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "FHIRDatastore",
+        "Service": "healthlake"
+      },
+      {
+        "Method": "FHIRExportJob",
+        "Service": "healthlake"
+      },
+      {
+        "Method": "FHIRImportJob",
+        "Service": "healthlake"
+      }
+    ],
+    "Package": "healthlake"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Hapg",
+        "Service": "cloudhsm"
+      },
+      {
+        "Method": "Hsm",
+        "Service": "cloudhsm"
+      },
+      {
+        "Method": "LunaClient",
+        "Service": "cloudhsm"
+      }
+    ],
+    "Package": "cloudhsm"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AccountAttributes",
+        "Service": "ec2"
+      },
+      {
+        "Method": "Addresses",
+        "Service": "ec2"
+      },
+      {
+        "Method": "AddressesAttribute",
+        "Service": "ec2"
+      },
+      {
+        "Method": "AggregateIdFormat",
+        "Service": "ec2"
+      },
+      {
+        "Method": "AvailabilityZones",
+        "Service": "ec2"
+      },
+      {
+        "Method": "BundleTasks",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ByoipCidrs",
+        "Service": "ec2"
+      },
+      {
+        "Method": "CapacityReservationFleets",
+        "Service": "ec2"
+      },
+      {
+        "Method": "CapacityReservations",
+        "Service": "ec2"
+      },
+      {
+        "Method": "CarrierGateways",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ClassicLinkInstances",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ClientVpnAuthorizationRules",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ClientVpnConnections",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ClientVpnEndpoints",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ClientVpnRoutes",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ClientVpnTargetNetworks",
+        "Service": "ec2"
+      },
+      {
+        "Method": "CoipPools",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ConversionTasks",
+        "Service": "ec2"
+      },
+      {
+        "Method": "CustomerGateways",
+        "Service": "ec2"
+      },
+      {
+        "Method": "DhcpOptions",
+        "Service": "ec2"
+      },
+      {
+        "Method": "EgressOnlyInternetGateways",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ElasticGpus",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ExportImageTasks",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ExportTasks",
+        "Service": "ec2"
+      },
+      {
+        "Method": "FastLaunchImages",
+        "Service": "ec2"
+      },
+      {
+        "Method": "FastSnapshotRestores",
+        "Service": "ec2"
+      },
+      {
+        "Method": "FleetHistory",
+        "Service": "ec2"
+      },
+      {
+        "Method": "FleetInstances",
+        "Service": "ec2"
+      },
+      {
+        "Method": "Fleets",
+        "Service": "ec2"
+      },
+      {
+        "Method": "FlowLogs",
+        "Service": "ec2"
+      },
+      {
+        "Method": "FpgaImageAttribute",
+        "Service": "ec2"
+      },
+      {
+        "Method": "FpgaImages",
+        "Service": "ec2"
+      },
+      {
+        "Method": "HostReservationOfferings",
+        "Service": "ec2"
+      },
+      {
+        "Method": "HostReservations",
+        "Service": "ec2"
+      },
+      {
+        "Method": "Hosts",
+        "Service": "ec2"
+      },
+      {
+        "Method": "IamInstanceProfileAssociations",
+        "Service": "ec2"
+      },
+      {
+        "Method": "IdFormat",
+        "Service": "ec2"
+      },
+      {
+        "Method": "IdentityIdFormat",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ImageAttribute",
+        "Service": "ec2"
+      },
+      {
+        "Method": "Images",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ImportImageTasks",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ImportSnapshotTasks",
+        "Service": "ec2"
+      },
+      {
+        "Method": "InstanceAttribute",
+        "Service": "ec2"
+      },
+      {
+        "Method": "InstanceCreditSpecifications",
+        "Service": "ec2"
+      },
+      {
+        "Method": "InstanceEventNotificationAttributes",
+        "Service": "ec2"
+      },
+      {
+        "Method": "InstanceEventWindows",
+        "Service": "ec2"
+      },
+      {
+        "Method": "InstanceStatus",
+        "Service": "ec2"
+      },
+      {
+        "Method": "InstanceTypeOfferings",
+        "Service": "ec2"
+      },
+      {
+        "Method": "InstanceTypes",
+        "Service": "ec2"
+      },
+      {
+        "Method": "Instances",
+        "Service": "ec2"
+      },
+      {
+        "Method": "InternetGateways",
+        "Service": "ec2"
+      },
+      {
+        "Method": "IpamPools",
+        "Service": "ec2"
+      },
+      {
+        "Method": "IpamScopes",
+        "Service": "ec2"
+      },
+      {
+        "Method": "Ipams",
+        "Service": "ec2"
+      },
+      {
+        "Method": "Ipv6Pools",
+        "Service": "ec2"
+      },
+      {
+        "Method": "KeyPairs",
+        "Service": "ec2"
+      },
+      {
+        "Method": "LaunchTemplateVersions",
+        "Service": "ec2"
+      },
+      {
+        "Method": "LaunchTemplates",
+        "Service": "ec2"
+      },
+      {
+        "Method": "LocalGatewayRouteTableVirtualInterfaceGroupAssociations",
+        "Service": "ec2"
+      },
+      {
+        "Method": "LocalGatewayRouteTableVpcAssociations",
+        "Service": "ec2"
+      },
+      {
+        "Method": "LocalGatewayRouteTables",
+        "Service": "ec2"
+      },
+      {
+        "Method": "LocalGatewayVirtualInterfaceGroups",
+        "Service": "ec2"
+      },
+      {
+        "Method": "LocalGatewayVirtualInterfaces",
+        "Service": "ec2"
+      },
+      {
+        "Method": "LocalGateways",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ManagedPrefixLists",
+        "Service": "ec2"
+      },
+      {
+        "Method": "MovingAddresses",
+        "Service": "ec2"
+      },
+      {
+        "Method": "NatGateways",
+        "Service": "ec2"
+      },
+      {
+        "Method": "NetworkAcls",
+        "Service": "ec2"
+      },
+      {
+        "Method": "NetworkInsightsAccessScopeAnalyses",
+        "Service": "ec2"
+      },
+      {
+        "Method": "NetworkInsightsAccessScopes",
+        "Service": "ec2"
+      },
+      {
+        "Method": "NetworkInsightsAnalyses",
+        "Service": "ec2"
+      },
+      {
+        "Method": "NetworkInsightsPaths",
+        "Service": "ec2"
+      },
+      {
+        "Method": "NetworkInterfaceAttribute",
+        "Service": "ec2"
+      },
+      {
+        "Method": "NetworkInterfacePermissions",
+        "Service": "ec2"
+      },
+      {
+        "Method": "NetworkInterfaces",
+        "Service": "ec2"
+      },
+      {
+        "Method": "PlacementGroups",
+        "Service": "ec2"
+      },
+      {
+        "Method": "PrefixLists",
+        "Service": "ec2"
+      },
+      {
+        "Method": "PrincipalIdFormat",
+        "Service": "ec2"
+      },
+      {
+        "Method": "PublicIpv4Pools",
+        "Service": "ec2"
+      },
+      {
+        "Method": "Regions",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ReplaceRootVolumeTasks",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ReservedInstances",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ReservedInstancesListings",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ReservedInstancesModifications",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ReservedInstancesOfferings",
+        "Service": "ec2"
+      },
+      {
+        "Method": "RouteTables",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ScheduledInstanceAvailability",
+        "Service": "ec2"
+      },
+      {
+        "Method": "ScheduledInstances",
+        "Service": "ec2"
+      },
+      {
+        "Method": "SecurityGroupReferences",
+        "Service": "ec2"
+      },
+      {
+        "Method": "SecurityGroupRules",
+        "Service": "ec2"
+      },
+      {
+        "Method": "SecurityGroups",
+        "Service": "ec2"
+      },
+      {
+        "Method": "SnapshotAttribute",
+        "Service": "ec2"
+      },
+      {
+        "Method": "SnapshotTierStatus",
+        "Service": "ec2"
+      },
+      {
+        "Method": "Snapshots",
+        "Service": "ec2"
+      },
+      {
+        "Method": "SpotDatafeedSubscription",
+        "Service": "ec2"
+      },
+      {
+        "Method": "SpotFleetInstances",
+        "Service": "ec2"
+      },
+      {
+        "Method": "SpotFleetRequestHistory",
+        "Service": "ec2"
+      },
+      {
+        "Method": "SpotFleetRequests",
+        "Service": "ec2"
+      },
+      {
+        "Method": "SpotInstanceRequests",
+        "Service": "ec2"
+      },
+      {
+        "Method": "SpotPriceHistory",
+        "Service": "ec2"
+      },
+      {
+        "Method": "StaleSecurityGroups",
+        "Service": "ec2"
+      },
+      {
+        "Method": "StoreImageTasks",
+        "Service": "ec2"
+      },
+      {
+        "Method": "Subnets",
+        "Service": "ec2"
+      },
+      {
+        "Method": "Tags",
+        "Service": "ec2"
+      },
+      {
+        "Method": "TrafficMirrorFilters",
+        "Service": "ec2"
+      },
+      {
+        "Method": "TrafficMirrorSessions",
+        "Service": "ec2"
+      },
+      {
+        "Method": "TrafficMirrorTargets",
+        "Service": "ec2"
+      },
+      {
+        "Method": "TransitGatewayAttachments",
+        "Service": "ec2"
+      },
+      {
+        "Method": "TransitGatewayConnectPeers",
+        "Service": "ec2"
+      },
+      {
+        "Method": "TransitGatewayConnects",
+        "Service": "ec2"
+      },
+      {
+        "Method": "TransitGatewayMulticastDomains",
+        "Service": "ec2"
+      },
+      {
+        "Method": "TransitGatewayPeeringAttachments",
+        "Service": "ec2"
+      },
+      {
+        "Method": "TransitGatewayPolicyTables",
+        "Service": "ec2"
+      },
+      {
+        "Method": "TransitGatewayRouteTableAnnouncements",
+        "Service": "ec2"
+      },
+      {
+        "Method": "TransitGatewayRouteTables",
+        "Service": "ec2"
+      },
+      {
+        "Method": "TransitGatewayVpcAttachments",
+        "Service": "ec2"
+      },
+      {
+        "Method": "TransitGateways",
+        "Service": "ec2"
+      },
+      {
+        "Method": "TrunkInterfaceAssociations",
+        "Service": "ec2"
+      },
+      {
+        "Method": "VolumeAttribute",
+        "Service": "ec2"
+      },
+      {
+        "Method": "VolumeStatus",
+        "Service": "ec2"
+      },
+      {
+        "Method": "Volumes",
+        "Service": "ec2"
+      },
+      {
+        "Method": "VolumesModifications",
+        "Service": "ec2"
+      },
+      {
+        "Method": "VpcAttribute",
+        "Service": "ec2"
+      },
+      {
+        "Method": "VpcClassicLink",
+        "Service": "ec2"
+      },
+      {
+        "Method": "VpcClassicLinkDnsSupport",
+        "Service": "ec2"
+      },
+      {
+        "Method": "VpcEndpointConnectionNotifications",
+        "Service": "ec2"
+      },
+      {
+        "Method": "VpcEndpointConnections",
+        "Service": "ec2"
+      },
+      {
+        "Method": "VpcEndpointServiceConfigurations",
+        "Service": "ec2"
+      },
+      {
+        "Method": "VpcEndpointServicePermissions",
+        "Service": "ec2"
+      },
+      {
+        "Method": "VpcEndpointServices",
+        "Service": "ec2"
+      },
+      {
+        "Method": "VpcEndpoints",
+        "Service": "ec2"
+      },
+      {
+        "Method": "VpcPeeringConnections",
+        "Service": "ec2"
+      },
+      {
+        "Method": "Vpcs",
+        "Service": "ec2"
+      },
+      {
+        "Method": "VpnConnections",
+        "Service": "ec2"
+      },
+      {
+        "Method": "VpnGateways",
+        "Service": "ec2"
+      }
+    ],
+    "Package": "ec2"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AccessPoints",
+        "Service": "efs"
+      },
+      {
+        "Method": "AccountPreferences",
+        "Service": "efs"
+      },
+      {
+        "Method": "BackupPolicy",
+        "Service": "efs"
+      },
+      {
+        "Method": "FileSystemPolicy",
+        "Service": "efs"
+      },
+      {
+        "Method": "FileSystems",
+        "Service": "efs"
+      },
+      {
+        "Method": "LifecycleConfiguration",
+        "Service": "efs"
+      },
+      {
+        "Method": "MountTargetSecurityGroups",
+        "Service": "efs"
+      },
+      {
+        "Method": "MountTargets",
+        "Service": "efs"
+      },
+      {
+        "Method": "ReplicationConfigurations",
+        "Service": "efs"
+      },
+      {
+        "Method": "Tags",
+        "Service": "efs"
+      }
+    ],
+    "Package": "efs"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "HomeRegionControls",
+        "Service": "migrationhubconfig"
+      }
+    ],
+    "Package": "migrationhubconfig"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Domain",
+        "Service": "opensearch"
+      },
+      {
+        "Method": "DomainAutoTunes",
+        "Service": "opensearch"
+      },
+      {
+        "Method": "DomainChangeProgress",
+        "Service": "opensearch"
+      },
+      {
+        "Method": "DomainConfig",
+        "Service": "opensearch"
+      },
+      {
+        "Method": "Domains",
+        "Service": "opensearch"
+      },
+      {
+        "Method": "InboundConnections",
+        "Service": "opensearch"
+      },
+      {
+        "Method": "InstanceTypeLimits",
+        "Service": "opensearch"
+      },
+      {
+        "Method": "OutboundConnections",
+        "Service": "opensearch"
+      },
+      {
+        "Method": "Packages",
+        "Service": "opensearch"
+      },
+      {
+        "Method": "ReservedInstanceOfferings",
+        "Service": "opensearch"
+      },
+      {
+        "Method": "ReservedInstances",
+        "Service": "opensearch"
+      }
+    ],
+    "Package": "opensearch"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AccountLimits",
+        "Service": "elasticloadbalancingv2"
+      },
+      {
+        "Method": "ListenerCertificates",
+        "Service": "elasticloadbalancingv2"
+      },
+      {
+        "Method": "Listeners",
+        "Service": "elasticloadbalancingv2"
+      },
+      {
+        "Method": "LoadBalancerAttributes",
+        "Service": "elasticloadbalancingv2"
+      },
+      {
+        "Method": "LoadBalancers",
+        "Service": "elasticloadbalancingv2"
+      },
+      {
+        "Method": "Rules",
+        "Service": "elasticloadbalancingv2"
+      },
+      {
+        "Method": "SSLPolicies",
+        "Service": "elasticloadbalancingv2"
+      },
+      {
+        "Method": "Tags",
+        "Service": "elasticloadbalancingv2"
+      },
+      {
+        "Method": "TargetGroupAttributes",
+        "Service": "elasticloadbalancingv2"
+      },
+      {
+        "Method": "TargetGroups",
+        "Service": "elasticloadbalancingv2"
+      },
+      {
+        "Method": "TargetHealth",
+        "Service": "elasticloadbalancingv2"
+      }
+    ],
+    "Package": "elasticloadbalancingv2"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Placement",
+        "Service": "iot1clickprojects"
+      },
+      {
+        "Method": "Project",
+        "Service": "iot1clickprojects"
+      }
+    ],
+    "Package": "iot1clickprojects"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Connector",
+        "Service": "appflow"
+      },
+      {
+        "Method": "ConnectorEntity",
+        "Service": "appflow"
+      },
+      {
+        "Method": "ConnectorProfiles",
+        "Service": "appflow"
+      },
+      {
+        "Method": "Connectors",
+        "Service": "appflow"
+      },
+      {
+        "Method": "Flow",
+        "Service": "appflow"
+      },
+      {
+        "Method": "FlowExecutionRecords",
+        "Service": "appflow"
+      }
+    ],
+    "Package": "appflow"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "BackupJob",
+        "Service": "backup"
+      },
+      {
+        "Method": "BackupVault",
+        "Service": "backup"
+      },
+      {
+        "Method": "CopyJob",
+        "Service": "backup"
+      },
+      {
+        "Method": "Framework",
+        "Service": "backup"
+      },
+      {
+        "Method": "GlobalSettings",
+        "Service": "backup"
+      },
+      {
+        "Method": "ProtectedResource",
+        "Service": "backup"
+      },
+      {
+        "Method": "RecoveryPoint",
+        "Service": "backup"
+      },
+      {
+        "Method": "RegionSettings",
+        "Service": "backup"
+      },
+      {
+        "Method": "ReportJob",
+        "Service": "backup"
+      },
+      {
+        "Method": "ReportPlan",
+        "Service": "backup"
+      },
+      {
+        "Method": "RestoreJob",
+        "Service": "backup"
+      }
+    ],
+    "Package": "backup"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AccountLimits",
+        "Service": "cloudformation"
+      },
+      {
+        "Method": "ChangeSet",
+        "Service": "cloudformation"
+      },
+      {
+        "Method": "ChangeSetHooks",
+        "Service": "cloudformation"
+      },
+      {
+        "Method": "Publisher",
+        "Service": "cloudformation"
+      },
+      {
+        "Method": "StackDriftDetectionStatus",
+        "Service": "cloudformation"
+      },
+      {
+        "Method": "StackEvents",
+        "Service": "cloudformation"
+      },
+      {
+        "Method": "StackInstance",
+        "Service": "cloudformation"
+      },
+      {
+        "Method": "StackResource",
+        "Service": "cloudformation"
+      },
+      {
+        "Method": "StackResourceDrifts",
+        "Service": "cloudformation"
+      },
+      {
+        "Method": "StackResources",
+        "Service": "cloudformation"
+      },
+      {
+        "Method": "StackSet",
+        "Service": "cloudformation"
+      },
+      {
+        "Method": "StackSetOperation",
+        "Service": "cloudformation"
+      },
+      {
+        "Method": "Stacks",
+        "Service": "cloudformation"
+      },
+      {
+        "Method": "Type",
+        "Service": "cloudformation"
+      },
+      {
+        "Method": "TypeRegistration",
+        "Service": "cloudformation"
+      }
+    ],
+    "Package": "cloudformation"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "AnalysisSchemes",
+        "Service": "cloudsearch"
+      },
+      {
+        "Method": "AvailabilityOptions",
+        "Service": "cloudsearch"
+      },
+      {
+        "Method": "DomainEndpointOptions",
+        "Service": "cloudsearch"
+      },
+      {
+        "Method": "Domains",
+        "Service": "cloudsearch"
+      },
+      {
+        "Method": "Expressions",
+        "Service": "cloudsearch"
+      },
+      {
+        "Method": "IndexFields",
+        "Service": "cloudsearch"
+      },
+      {
+        "Method": "ScalingParameters",
+        "Service": "cloudsearch"
+      },
+      {
+        "Method": "ServiceAccessPolicies",
+        "Service": "cloudsearch"
+      },
+      {
+        "Method": "Suggesters",
+        "Service": "cloudsearch"
+      }
+    ],
+    "Package": "cloudsearch"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "ConnectionLoa",
+        "Service": "directconnect"
+      },
+      {
+        "Method": "Connections",
+        "Service": "directconnect"
+      },
+      {
+        "Method": "ConnectionsOnInterconnect",
+        "Service": "directconnect"
+      },
+      {
+        "Method": "CustomerMetadata",
+        "Service": "directconnect"
+      },
+      {
+        "Method": "DirectConnectGatewayAssociationProposals",
+        "Service": "directconnect"
+      },
+      {
+        "Method": "DirectConnectGatewayAssociations",
+        "Service": "directconnect"
+      },
+      {
+        "Method": "DirectConnectGatewayAttachments",
+        "Service": "directconnect"
+      },
+      {
+        "Method": "DirectConnectGateways",
+        "Service": "directconnect"
+      },
+      {
+        "Method": "HostedConnections",
+        "Service": "directconnect"
+      },
+      {
+        "Method": "InterconnectLoa",
+        "Service": "directconnect"
+      },
+      {
+        "Method": "Interconnects",
+        "Service": "directconnect"
+      },
+      {
+        "Method": "Lags",
+        "Service": "directconnect"
+      },
+      {
+        "Method": "Loa",
+        "Service": "directconnect"
+      },
+      {
+        "Method": "Locations",
+        "Service": "directconnect"
+      },
+      {
+        "Method": "RouterConfiguration",
+        "Service": "directconnect"
+      },
+      {
+        "Method": "Tags",
+        "Service": "directconnect"
+      },
+      {
+        "Method": "VirtualGateways",
+        "Service": "directconnect"
+      },
+      {
+        "Method": "VirtualInterfaces",
+        "Service": "directconnect"
+      }
+    ],
+    "Package": "directconnect"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Stream",
+        "Service": "dynamodbstreams"
+      }
+    ],
+    "Package": "dynamodbstreams"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "JobExecution",
+        "Service": "iotjobsdataplane"
+      }
+    ],
+    "Package": "iotjobsdataplane"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Limits",
+        "Service": "kinesis"
+      },
+      {
+        "Method": "Stream",
+        "Service": "kinesis"
+      },
+      {
+        "Method": "StreamConsumer",
+        "Service": "kinesis"
+      },
+      {
+        "Method": "StreamSummary",
+        "Service": "kinesis"
+      }
+    ],
+    "Package": "kinesis"
+  },
+  {
+    "Describers": [
+      {
+        "Method": "Collection",
+        "Service": "rekognition"
+      },
+      {
+        "Method": "Dataset",
+        "Service": "rekognition"
+      },
+      {
+        "Method": "ProjectVersions",
+        "Service": "rekognition"
+      },
+      {
+        "Method": "Projects",
+        "Service": "rekognition"
+      },
+      {
+        "Method": "StreamProcessor",
+        "Service": "rekognition"
+      }
+    ],
+    "Package": "rekognition"
+  }
+]
